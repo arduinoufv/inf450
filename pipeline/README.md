@@ -6,3 +6,4 @@
 
 # Predição de Desvios
 * [Aula 2022 Introdução aos preditores estáticos e dinâmicos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kIZf9SfOcipQErNNIkf6wd)
+* [Aula 2022 Implementação do Preditor de Desvio Simples](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nD7FuGBakQcYf451zg5NFD)
