@@ -12,8 +12,8 @@
 1.  [20/3 Apresentação do Curso - Slides ](https://docs.google.com/presentation/d/1_LykWtdGVN7RCOvt1C8jXhd5BZuPTYUz1-FzViksB7w/edit?usp=sharing)
    - Gravação da aula [Playlist]()
 ## Parte I Processador 
-2. [23/3 Revisão RiscV e Múltiplas Unidades Funcionais]
-3. [27/3]
+2. 23/3 Revisão RiscV e Múltiplas Unidades Funcionais [slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing), exemplos: [exercicio 1](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing), Gravação da aula [Playlist]()
+3. 27/3 Múltiplas Unidades Funcionais [slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing), exemplos: , [trabalho 1](https://colab.research.google.com/drive/1f4J8N2_tWvKIXZP-BFO9r1FVh3znhOFv?usp=sharing)
 * [30/3]
 * [4/4]
 * [11/4]
