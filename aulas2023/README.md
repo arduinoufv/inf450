@@ -12,7 +12,7 @@
 1.  [20/3 Apresentação do Curso - Slides ](https://docs.google.com/presentation/d/1_LykWtdGVN7RCOvt1C8jXhd5BZuPTYUz1-FzViksB7w/edit?usp=sharing)
    - Gravação da aula [Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mQZNr2ftwBjFj7vzEQja8L)
 ## Parte I Processador 
-2. 23/3 Revisão RiscV e Múltiplas Unidades Funcionais [slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing), exemplos: [exercicio 1](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing), Gravação da aula [Playlist]()
+2. 23/3 Revisão RiscV e Múltiplas Unidades Funcionais [slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing), exemplos: [exercicio 1](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing), Gravação da aula [Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l3Tiu82udAXsg6bdaDHR8M)
 3. 27/3 Múltiplas Unidades Funcionais [slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing), exemplos: loops e desvios, [trabalho 1](https://colab.research.google.com/drive/1f4J8N2_tWvKIXZP-BFO9r1FVh3znhOFv?usp=sharing)
 4. 30/3 Loop Unrolling, escalonamento estático, Software Pipelining [exercicios para treino](https://docs.google.com/document/d/1iMePpBllLPABsJtC3P1knk6QhF9Mo2XuHR_l24cL4lw/edit?usp=sharing) - [exemplos resolvidos](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing) 
 5. 3/4  Software Pipelining [exemplos](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing)
