@@ -23,7 +23,7 @@
 
 9. [20/4] Implementacao do Preditor de Desvio 
 10. [24/4] Revisao
-11. [27/4] Prova I
+11. [27/4] Prova I - **ATENÇÂO PVA, PVA"...PVA 277
 12. [4/5]  Cache e Tipos
 13. [8/5]  Escrita e Substituicao
 14. [11/5] Enderecamento e Niveis 
