@@ -20,7 +20,7 @@
 7. [13/4] Implementacao do Preditor de Desvio [artigo com implementação do preditor ](https://drive.google.com/file/d/1OwYKriZ7ZO-vyjqkrxkEaGVxqul_YnwH/view?usp=sharing), slides da apresentação [WEAC](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing) + [playlist de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kY5VOzsPdB5Iqgsh40meuL)- Material do PEO para [Implementação do Preditor de Desvio](https://github.com/arduinoufv/inf450_peo/blob/master/semana/semana2.md#24-implementa%C3%A7ao-de-desvio-dinamico) e Material do Curso de [2021](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kyUihym8cOfDeSV4b4JdqK)
 
 8. [18/4] Revisão Prova 1 [Multiplas Unidades, Unroll e Software Pipeline](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lvn_wC_KJBNxMkouDPfSEY) e [Colab interativo](https://colab.research.google.com/drive/1D4t6FIDFG53A0IDi4hVftWt1IjuZBYJe?usp=sharing) - Pasta com várias [provas](https://drive.google.com/drive/folders/1ypruNWlIt7wZmCbiMuIsOE--XXmfTlFW?usp=sharing): Tem questões com MIPS (semelhantes a RISCV) e as questões de software pipelining não incluem balanceamento.
-9. [20/4] Revisão Prova 1 [Software Pipelining e Escalonamento Dinâmico]() 
+9. [20/4] Aula [ETH Prof. Onur, Execucao Fora de Ordem](https://youtu.be/AhtIrJNSQws)
 10. [24/4] Revisao
 11. [27/4] Prova I - **ATENÇÂO PVA, PVA**...PVA 277
 12. [4/5]  Cache e Tipos
