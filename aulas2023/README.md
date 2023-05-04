@@ -23,7 +23,7 @@
 9. [20/4] Aula [ETH Prof. Onur, Execucao Fora de Ordem](https://youtu.be/AhtIrJNSQws)
 10. [24/4] Revisao
 11. [27/4] Prova I - **ATENÇÂO PVA, PVA**...PVA 277
-12. [4/5]  Cache e Tipos
+12. [4/5]  [Cache e Tipos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kXe1ov2pKVgZAY_HemWrCI) e [Colab](https://colab.research.google.com/drive/1EBcmbqwhJYq17t9Z9XXHUXhDzC_ER3C1?usp=sharing)
 13. [8/5]  Escrita e Substituicao
 14. [11/5] Enderecamento e Niveis 
 15. [15/5] Projeto de Cache
