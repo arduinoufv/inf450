@@ -28,7 +28,7 @@
 14. [11/5] [Projeto de Cache](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDv1GhR8eLMkzxwKzXGDvo) 
      * [Trabalho com Valgrind](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k4DCosr9i5zlxGcpn2ZEB-)
      * [Exercicio de calculo dos campos de endereçamento de cache](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ltCswpJJRnzLmMoHnzPtNO) 
-16. [15/5] [Colab com Projeto de Cache - 4 pontos](https://colab.research.google.com/drive/1gmnfeqsi-miA8MIGxB5Fnwx4-4YlESfB?usp=sharing)
+16. [15/5] [Colab com Projeto de Cache - 4 pontos](https://colab.research.google.com/drive/1gmnfeqsi-miA8MIGxB5Fnwx4-4YlESfB?usp=sharing) e [playlist com explicacoes](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDv1GhR8eLMkzxwKzXGDvo)
 17. [18/5] 
 18. [25/5] Memoria Virtual e Paginacao
 19. [29/5] Paginacao em 2 niveis
