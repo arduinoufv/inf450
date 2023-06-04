@@ -26,7 +26,7 @@
 12. [4/5]  [Cache e Tipos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kXe1ov2pKVgZAY_HemWrCI) e [Colab](https://colab.research.google.com/drive/1EBcmbqwhJYq17t9Z9XXHUXhDzC_ER3C1?usp=sharing)
 13. [8/5]  [Calculo de Custo dos tres tipos de cache e sequencia de acesso](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mBui1oFPC7Aq3q7_dNrjBx)
 14. [11/5] [Projeto de Cache](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDv1GhR8eLMkzxwKzXGDvo) 
-     * [Trabalho com Valgrind](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k4DCosr9i5zlxGcpn2ZEB-)
+     * [Trabalho com Valgrind](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k4DCosr9i5zlxGcpn2ZEB-) - [Colab do trabalho](https://colab.research.google.com/drive/180L9FGEtb_tdiVCG8KC8xHwM8YbdED-n?usp=sharing)
      * [Exercicio de calculo dos campos de endereçamento de cache](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ltCswpJJRnzLmMoHnzPtNO) 
 16. [15/5] [Colab com Projeto de Cache - 4 pontos](https://colab.research.google.com/drive/1gmnfeqsi-miA8MIGxB5Fnwx4-4YlESfB?usp=sharing) e [playlist com explicacoes](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDv1GhR8eLMkzxwKzXGDvo)
 17. [18/5] [Trabalho 1 de GPU exemplo de pipeline com Warp 4](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mH7Z_2fBoihUdprWn8vMwC)
