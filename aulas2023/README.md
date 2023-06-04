@@ -32,9 +32,13 @@
 17. [18/5] [Trabalho 1 de GPU exemplo de pipeline com Warp 4](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mH7Z_2fBoihUdprWn8vMwC)
 18. [25/5] [Trabalho 2 de GPU Gerador de Código para Kmeans com uso de registradores e Shared](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksGBHUdku-T5PEATDaSoUt)
 19. [29/5] [Memoria Virtual e Paginacao](https://colab.research.google.com/drive/1yFMBKIOR94sudsBO0Z3nhZ4xExBITQnx?usp=sharing) e [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kmDWdSDxut5b9tiGGQmShN)
-20. [1/6]  Paginacao em 2 niveis
+20. [1/6]  [Paginacao em 2 niveis](https://studio.youtube.com/playlist/PLcvOyD_LMr6m0Y0VWa3-WVEPweD_WVGHf)
 21. [5/6] Paginacao e Segmentacao + TLB
-22. [12/6] Revisao
+22. [12/6] Revisao - **Considera ponteiros 1 byte, iremos considerar de 1,2 ou 4 bytes em 2023**
+    * [prova 2017 - parcialmente resolvida](https://docs.google.com/document/d/1vNQ8rBP9eO_DR46n3OHDM1eiyWYPYLqhUNnTPLFhxUI/edit?usp=sharing)
+    * [prova 2018 - parcialmente resolvida](https://docs.google.com/document/d/1GnXvFZty9qmiLOXlLJjiL45b0sRnOiopVUkGW1ijkmY/edit?usp=sharing)
+    * [prova 2019](https://docs.google.com/document/d/1FXlvwP3eP_mYe7Cq-6rv3OvqieQeDpqpXwHXS9htp1Y/edit?usp=sharing)
+    * [prova 2022 - parcialmente resolvida](https://docs.google.com/document/d/1YuPwcR1I4XObY9WYr3lx2N-Qb_9RZfOUlXPi7gCHzfs/edit?usp=sharing)
 23. [15/6] Prova
 23 [19/6]  Dataflow
 24. [22/6] Maquinas Vetoriais
