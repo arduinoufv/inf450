@@ -29,7 +29,7 @@
      * [Trabalho com Valgrind](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k4DCosr9i5zlxGcpn2ZEB-) - [Colab do trabalho](https://colab.research.google.com/drive/180L9FGEtb_tdiVCG8KC8xHwM8YbdED-n?usp=sharing)
      * [Exercicio de calculo dos campos de endereçamento de cache](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ltCswpJJRnzLmMoHnzPtNO) 
 16. [15/5] [Colab com Projeto de Cache - 4 pontos](https://colab.research.google.com/drive/1gmnfeqsi-miA8MIGxB5Fnwx4-4YlESfB?usp=sharing) e [playlist com explicacoes](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDv1GhR8eLMkzxwKzXGDvo)
-17. [18/5] [Trabalho 1 de GPU exemplo de pipeline com Warp 4](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mH7Z_2fBoihUdprWn8vMwC)
+17. [18/5] [Trabalho 1 de GPU exemplo de pipeline com Warp 4](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mH7Z_2fBoihUdprWn8vMwC) e [colab](https://colab.research.google.com/drive/1VXbM1N26nDHAuJRaHPfvhxhwSLQ6A0ZL?usp=sharing)
 18. [25/5] [Trabalho 2 de GPU Gerador de Código para Kmeans com uso de registradores e Shared](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksGBHUdku-T5PEATDaSoUt)
 19. [29/5] [Memoria Virtual e Paginacao](https://colab.research.google.com/drive/1yFMBKIOR94sudsBO0Z3nhZ4xExBITQnx?usp=sharing) e [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kmDWdSDxut5b9tiGGQmShN)
 20. [1/6]  [Paginacao em 2 niveis](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m0Y0VWa3-WVEPweD_WVGHf)
