@@ -39,8 +39,8 @@
     * [prova 2018 - parcialmente resolvida](https://docs.google.com/document/d/1GnXvFZty9qmiLOXlLJjiL45b0sRnOiopVUkGW1ijkmY/edit?usp=sharing)
     * [prova 2019](https://docs.google.com/document/d/1FXlvwP3eP_mYe7Cq-6rv3OvqieQeDpqpXwHXS9htp1Y/edit?usp=sharing)
     * [prova 2022 - parcialmente resolvida](https://docs.google.com/document/d/1YuPwcR1I4XObY9WYr3lx2N-Qb_9RZfOUlXPi7gCHzfs/edit?usp=sharing)
-23. [15/6] Prova - **Sala 277 do PVA** reservada para INF 450.
-23 [19/6]  Dataflow
+23. [15/6] Dataflow 
+23 [19/6]  Prova - **Reservamos a sala 201 do PVA para INF 450.**
 24. [22/6] Maquinas Vetoriais
 25. [26/6] Sistolicos
 26. [29/6] Array Processors e GPU
