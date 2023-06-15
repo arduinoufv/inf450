@@ -39,6 +39,9 @@
     * [prova 2018 - parcialmente resolvida](https://docs.google.com/document/d/1GnXvFZty9qmiLOXlLJjiL45b0sRnOiopVUkGW1ijkmY/edit?usp=sharing)
     * [prova 2019](https://docs.google.com/document/d/1FXlvwP3eP_mYe7Cq-6rv3OvqieQeDpqpXwHXS9htp1Y/edit?usp=sharing)
     * [prova 2022 - parcialmente resolvida](https://docs.google.com/document/d/1YuPwcR1I4XObY9WYr3lx2N-Qb_9RZfOUlXPi7gCHzfs/edit?usp=sharing)
+    * [**COLAB** para treinar as questões de memória Virtual](https://colab.research.google.com/drive/1rJG96TvqEgK6h8YKWTdIXcw5DGYTgHmC?usp=sharing)
+    * [Cache e Tipos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kXe1ov2pKVgZAY_HemWrCI) e [Colab](https://colab.research.google.com/drive/1EBcmbqwhJYq17t9Z9XXHUXhDzC_ER3C1?usp=sharing)
+    * [Calculo de Custo dos tres tipos de cache e sequencia de acesso](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mBui1oFPC7Aq3q7_dNrjBx)
     
 23. [15/6] [Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing) 
 24. [19/6]  Prova - **Reservamos a sala 201 do PVA para INF 450.**
