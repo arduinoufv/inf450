@@ -45,11 +45,11 @@
     
 23. [15/6] [Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing) 
 24. [19/6]  Prova - **Reservamos a sala 201 do PVA para INF 450.**
-25. [22/6] Maquinas Vetoriais
-26. [26/6] Sistolicos
-27. [29/6] Array Processors e GPU
-28. [3/7] GPU
-29. [6/7] GPU
-30. [10/7] GPU
+25. [22/6] GPU 
+26. [26/6] GPU
+27. [29/6] GPU
+28. [3/7] Array Processors e Maquinas Vetoriais
+29. [6/7]  Sistólicos
+30. [10/7] Trabalhos Dúvidas finais
 31. [13/7] Prova
  
