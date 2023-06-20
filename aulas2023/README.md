@@ -45,7 +45,7 @@
     
 23. [15/6] [Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing) 
 24. [19/6]  Prova - **Reservamos a sala 201 do PVA para INF 450.**
-25. [22/6] GPU 
+25. [22/6] GPU [Colab com material e Ponteiros](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
 26. [26/6] GPU
 27. [29/6] GPU
 28. [3/7] Array Processors e Maquinas Vetoriais
