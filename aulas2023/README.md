@@ -2,8 +2,16 @@
 
 ## Avaliação
 
-* 3 provas de 30 pontos
-* 10 pontos em trabalhos
+* 3 provas (70 pontos): Prova 1 (30 pontos), Prova 2 (25 pontos), Prova 3 ( 15 pontos)
+* trabalhos:
+   * Pipeline 5 (+3 extra) pontos
+   * Software Pipelining 3 pontos
+   * Cache Maq Estados 5 pontos
+   * Cache Valgrind 3 pontos
+   * gpu warp e pipeline 3 pontos
+   * GPU Kmeans 5 pontos
+   * Knn sistolico 3 pontos
+   * Kmeans Dataflow 3 pontos 
 
 ## Referências
 
