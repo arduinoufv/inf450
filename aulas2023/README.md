@@ -6,9 +6,9 @@
 * trabalhos:
    * Pipeline 5 (+3 extra) pontos
    * Software Pipelining 3 pontos
-   * Cache Maq Estados 5 pontos
-   * Cache Valgrind 3 pontos
-   * gpu warp e pipeline 3 pontos
+   * [Cache Maq Estados 5 pontos](https://colab.research.google.com/drive/1gmnfeqsi-miA8MIGxB5Fnwx4-4YlESfB?usp=sharing)
+   * [Cache Valgrind 3 pontos](https://colab.research.google.com/drive/180L9FGEtb_tdiVCG8KC8xHwM8YbdED-n?usp=sharing)
+   * [gpu warp e pipeline 3 pontos](https://colab.research.google.com/drive/1VXbM1N26nDHAuJRaHPfvhxhwSLQ6A0ZL?usp=sharing)
    * GPU Kmeans 5 pontos
    * Knn sistolico 3 pontos
    * Kmeans Dataflow 3 pontos 
