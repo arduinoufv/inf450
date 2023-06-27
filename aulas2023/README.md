@@ -10,7 +10,7 @@
    * [Cache Valgrind 3 pontos](https://colab.research.google.com/drive/180L9FGEtb_tdiVCG8KC8xHwM8YbdED-n?usp=sharing)
    * [gpu warp e pipeline 3 pontos](https://colab.research.google.com/drive/1VXbM1N26nDHAuJRaHPfvhxhwSLQ6A0ZL?usp=sharing)
    * GPU Kmeans 5 pontos
-   * Knn sistolico 3 pontos
+   * Knn sistolico 3 pontos - [Introdução ao Trabalho](https://youtu.be/NUQFGnPMe9A)
    * Kmeans Dataflow 3 pontos 
 
 ## Referências
