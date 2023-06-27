@@ -11,7 +11,7 @@
    * [gpu warp e pipeline 3 pontos](https://colab.research.google.com/drive/1VXbM1N26nDHAuJRaHPfvhxhwSLQ6A0ZL?usp=sharing)
    * GPU Kmeans 5 pontos
    * Knn sistolico 3 pontos - [Introdução ao Trabalho](https://youtu.be/NUQFGnPMe9A)
-   * Kmeans Dataflow 3 pontos 
+   * Kmeans Dataflow 3 pontos [Introdução ao Trabalho](https://youtu.be/8p-meJi9UbA)
 
 ## Referências
 
@@ -56,8 +56,8 @@
 25. [22/6] GPU [Colab de Introdução a Arquitetura GPU](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
 26. [26/6] GPU
 27. [29/6] GPU
-28. [3/7] Array Processors e Maquinas Vetoriais
-29. [6/7]  Sistólicos
+28. [3/7] Array Processors e Maquinas Vetoriais [Questão Teoricas para Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l52AN8m5MbuxSkAus-yJdM)
+29. [6/7]  Sistólicos [Questão com Colab](https://colab.research.google.com/drive/1BffB0qFphSnF-YkYuKMTanfnRH8_jqLm?usp=sharing)
 30. [10/7] Trabalhos Dúvidas finais
 31. [13/7] Prova
  
