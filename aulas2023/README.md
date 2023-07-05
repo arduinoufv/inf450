@@ -12,6 +12,7 @@
    * [GPU Kmeans 5 pontos](https://colab.research.google.com/drive/1TYe1COGBixQv3jjyg7Wsk_F2f9F5m005?usp=sharing) + [playlist de video com explicações](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksGBHUdku-T5PEATDaSoUt)
    * Knn sistolico 3 pontos - [Introdução ao Trabalho](https://youtu.be/NUQFGnPMe9A) - [Trabalho sistólico e questão 2 da Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kjlPBJe2HuuJvRKXOgmHlY) +  [colab do trabalho](https://colab.research.google.com/drive/1BffB0qFphSnF-YkYuKMTanfnRH8_jqLm?usp=sharing)
    * Kmeans Dataflow 3 pontos [Introdução ao Trabalho](https://youtu.be/8p-meJi9UbA) - [Colab de Dataflow com trabalho](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing) - [playlist de dataflow e questao 3 da prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lCnoKxFtK8VplnEHwuUDcM)
+   * ### Prova 3 será no PVA 277, quinta 13/7
 
 ## Referências
 
@@ -59,5 +60,5 @@
 28. [3/7] Array Processors e Maquinas Vetoriais [Questão Teoricas para Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l52AN8m5MbuxSkAus-yJdM)
 29. [6/7]  Sistólicos [Questão com Colab](https://colab.research.google.com/drive/1BffB0qFphSnF-YkYuKMTanfnRH8_jqLm?usp=sharing)
 30. [10/7] Trabalhos Dúvidas finais
-31. [13/7] Prova
+31. [13/7] Prova pva 277
  
