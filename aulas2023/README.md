@@ -6,12 +6,14 @@
 * trabalhos:
    * Pipeline 5 (+3 extra) pontos
    * Software Pipelining 3 pontos
-   * [Cache Maq Estados 5 pontos](https://colab.research.google.com/drive/1gmnfeqsi-miA8MIGxB5Fnwx4-4YlESfB?usp=sharing)
-   * [Cache Valgrind 3 pontos](https://colab.research.google.com/drive/180L9FGEtb_tdiVCG8KC8xHwM8YbdED-n?usp=sharing) + [playlist de video e questao 1 da prova 3](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mJR43OpNv1k8_FD-4sJsbE)
-   * [gpu warp e pipeline 3 pontos](https://colab.research.google.com/drive/1VXbM1N26nDHAuJRaHPfvhxhwSLQ6A0ZL?usp=sharing) + [playlist de video e questão 4 da prova 3](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mH7Z_2fBoihUdprWn8vMwC)
-   * [GPU Kmeans 5 pontos](https://colab.research.google.com/drive/1TYe1COGBixQv3jjyg7Wsk_F2f9F5m005?usp=sharing) + [playlist de video com explicações](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksGBHUdku-T5PEATDaSoUt)
-   * Knn sistolico 3 pontos - [Introdução ao Trabalho](https://youtu.be/NUQFGnPMe9A) - [Trabalho sistólico e questão 2 da Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kjlPBJe2HuuJvRKXOgmHlY) +  [colab do trabalho](https://colab.research.google.com/drive/1BffB0qFphSnF-YkYuKMTanfnRH8_jqLm?usp=sharing)
-   * Kmeans Dataflow 3 pontos [Introdução ao Trabalho](https://youtu.be/8p-meJi9UbA) - [Colab de Dataflow com trabalho](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing) - [playlist de dataflow e questao 3 da prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lCnoKxFtK8VplnEHwuUDcM)
+ 
+   * ENVIAR OS TRABALHOS com o [formulario](https://forms.gle/gnEKtv9zNa7W1ucg8)
+   * [Trabalho 3 Cache Maq Estados 5 pontos](https://colab.research.google.com/drive/1gmnfeqsi-miA8MIGxB5Fnwx4-4YlESfB?usp=sharing)
+   * [Trabalho 4 Cache Valgrind 3 pontos](https://colab.research.google.com/drive/180L9FGEtb_tdiVCG8KC8xHwM8YbdED-n?usp=sharing) + [playlist de video e questao 1 da prova 3](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mJR43OpNv1k8_FD-4sJsbE)
+   * [Trabalho 5 gpu warp e pipeline 3 pontos](https://colab.research.google.com/drive/1VXbM1N26nDHAuJRaHPfvhxhwSLQ6A0ZL?usp=sharing) + [playlist de video e questão 4 da prova 3](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mH7Z_2fBoihUdprWn8vMwC)
+   * [Trabalho 6 GPU Kmeans 5 pontos](https://colab.research.google.com/drive/1TYe1COGBixQv3jjyg7Wsk_F2f9F5m005?usp=sharing) + [playlist de video com explicações](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksGBHUdku-T5PEATDaSoUt)
+   * Knn sistolico 3 pontos - [Introdução ao Trabalho](https://youtu.be/NUQFGnPMe9A) - [Trabalho 7 sistólico e questão 2 da Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kjlPBJe2HuuJvRKXOgmHlY) +  [colab do trabalho](https://colab.research.google.com/drive/1BffB0qFphSnF-YkYuKMTanfnRH8_jqLm?usp=sharing)
+   * Kmeans Dataflow 3 pontos [Introdução ao Trabalho](https://youtu.be/8p-meJi9UbA) - [Colab de Dataflow com trabalho 8](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing) - [playlist de dataflow e questao 3 da prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lCnoKxFtK8VplnEHwuUDcM)
    * ### Prova 3 será no PVA 277, quinta 13/7
 
 ## Referências
