@@ -24,7 +24,11 @@
 
 ---
 
-### Aula  11/3 Loop Unrolling, escalonamento estático, Software Pipelining  [slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing), [exemplos: unroll](https://docs.google.com/document/d/1VbJ5KoNpPBL990Hxp9_J4r0wJ1ThuCHeWmGWwinRLhQ/edit?usp=sharing)
+### Aula  11/3 Loop Unrolling, escalonamento estático, Software Pipelining
+
+* [slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing), [exemplos: unroll](https://docs.google.com/document/d/1VbJ5KoNpPBL990Hxp9_J4r0wJ1ThuCHeWmGWwinRLhQ/edit?usp=sharing)  [colab com "emulação" em python](https://colab.research.google.com/drive/1VXYg4UgnspfATiabb-CAkvkoII4IO0Nn?usp=sharing)
+
+* Software Pipelining da aula com 2 exemplos + [colab com a execucao](https://colab.research.google.com/drive/1oeHtya06AMZBuPofLHvckZfkf8Q1DMX1?usp=sharing) 
 
 ---   
 
