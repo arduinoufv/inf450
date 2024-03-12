@@ -4,7 +4,7 @@
 
 * 3 provas (80 pontos): Prova 1 (30 pontos) data 8/4/24, Prova 2 (30 pontos) data 13/5/24, Prova 3 ( 20 pontos) data 24/6/24
 * trabalhos (20 pontos):
-    * Software Pipeline (1 ponto)
+    * [Colab Software Pipeline](https://colab.research.google.com/drive/1VWXS56-z9rLYp8QoCEjrsbcXPvle5fms?usp=sharing) (1 ponto) - [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHam_rZiWIuRMRvBFD-bl0) - 
     * Predição Desvio (4 pontos)
     * Cache Emulador (1 ponto)
     * Cache Maquina Estados (4 pontos)
@@ -28,6 +28,7 @@
 
 * [slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing), [exemplos: unroll](https://docs.google.com/document/d/1VbJ5KoNpPBL990Hxp9_J4r0wJ1ThuCHeWmGWwinRLhQ/edit?usp=sharing)  [colab com "emulação" em python](https://colab.research.google.com/drive/1VXYg4UgnspfATiabb-CAkvkoII4IO0Nn?usp=sharing)
 
+* [Gravação da Aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nlHKPMzlijj8ob4jcOiJHy)
 * Slides Software Pipelining [Weac 2023](https://docs.google.com/presentation/d/176eY8fTNS0xd_VzsCKBBNn9xbN_dEvwVTR5h3ibtDns/edit?usp=sharing)
 * Artigo [weac 2023 - Ensino de Software Pipelining e Escalonamento em GPUs com Python](http://www2.sbc.org.br/ceacpad/ijcae/v12_n2_dec_2023/IJCAE_v12_n2_dez_2023_paper_3_vf.pdf)
 * [Colab indice do Artigo Weac 2023](https://colab.research.google.com/drive/1zpyc25cTdNnPoqY07MVJd6Cpcpm7_L9e?usp=sharing)
