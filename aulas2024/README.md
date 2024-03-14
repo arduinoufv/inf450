@@ -4,7 +4,7 @@
 
 * 3 provas (80 pontos): Prova 1 (30 pontos) data 8/4/24, Prova 2 (30 pontos) data 13/5/24, Prova 3 ( 20 pontos) data 24/6/24
 * trabalhos (20 pontos):
-    * [Colab Software Pipeline](https://colab.research.google.com/drive/1VWXS56-z9rLYp8QoCEjrsbcXPvle5fms?usp=sharing) (1 ponto) - [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHam_rZiWIuRMRvBFD-bl0) - 
+    * [Colab Software Pipeline - entregar 21/3](https://colab.research.google.com/drive/1VWXS56-z9rLYp8QoCEjrsbcXPvle5fms?usp=sharing) (1 ponto) - [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHam_rZiWIuRMRvBFD-bl0) - 
     * Predição Desvio (4 pontos)
     * Cache Emulador (1 ponto)
     * Cache Maquina Estados (4 pontos)
@@ -34,17 +34,18 @@
 * [Colab indice do Artigo Weac 2023](https://colab.research.google.com/drive/1zpyc25cTdNnPoqY07MVJd6Cpcpm7_L9e?usp=sharing)
 * Software Pipelining da aula com 2 exemplos + [colab com a execucao](https://colab.research.google.com/drive/1oeHtya06AMZBuPofLHvckZfkf8Q1DMX1?usp=sharing) 
 
----   
-
-### Aula 14/3 
-
 * Revisão de Software Pipelining da aula alguns [exercicios para treino](https://docs.google.com/document/d/1iMePpBllLPABsJtC3P1knk6QhF9Mo2XuHR_l24cL4lw/edit?usp=sharing) - [exemplos resolvidos](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing)
- Escalonamento dinamico [exemplos](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing) ---- [simulador 1 com 10 exemplos](https://arthurmteodoro.github.io/tomasulo-simulator/index) ----- [simulador 2](https://naheel.xyz/tomasulo-sim/)  
+
+---   
+### Aula 14/3 
+*  Escalonamento dinamico [exemplos](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing) ---- [simulador 1 com 10 exemplos](https://arthurmteodoro.github.io/tomasulo-simulator/index) ----- [simulador 2](https://naheel.xyz/tomasulo-sim/)  
+* Folha de exercicios da [aula revisão escalonamento dinamico e multiplas unidades](https://docs.google.com/document/d/1S4xz6zUmKN1bZ77NH3JbNzx_O8Y4sMX9dPjFn9ZOfwY/edit?usp=sharing) mais outros [exercicios para treino](https://docs.google.com/document/d/1JEj7AfNjVGiLLP3w6dl_SSQEhomq2xYt8P81Bw6uPvI/edit?usp=sharing) mais sugestões de [exercicio para treino](https://docs.google.com/document/d/1W19ofIvCMIcWTam78DMwOXRO555nKc80cljbKpRJyCk/edit?usp=sharing)
 
 -----
+
+### Aula 18/3
 8  
-9. 21/3 Folha de exercicios da [aula revisão escalonamento dinamico e multiplas unidades](https://docs.google.com/document/d/1S4xz6zUmKN1bZ77NH3JbNzx_O8Y4sMX9dPjFn9ZOfwY/edit?usp=sharing) mais outros [exercicios para treino](https://docs.google.com/document/d/1JEj7AfNjVGiLLP3w6dl_SSQEhomq2xYt8P81Bw6uPvI/edit?usp=sharing) mais sugestões de [exercicio para treino](https://docs.google.com/document/d/1W19ofIvCMIcWTam78DMwOXRO555nKc80cljbKpRJyCk/edit?usp=sharing)
-10. 25/3 Slides da apresentação para desvios [WEAC](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing) Alguns exercícios em construção no [colab](https://colab.research.google.com/drive/1dfPUIWJB6WHXB4FSGvIvu7paOGFJ3hdg?usp=sharing)
+9. 21/3 10. 25/3 Slides da apresentação para desvios [WEAC](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing) Alguns exercícios em construção no [colab](https://colab.research.google.com/drive/1dfPUIWJB6WHXB4FSGvIvu7paOGFJ3hdg?usp=sharing)
 11. [13/4] Implementacao do Preditor de Desvio [artigo com implementação do preditor ](https://drive.google.com/file/d/1OwYKriZ7ZO-vyjqkrxkEaGVxqul_YnwH/view?usp=sharing), slides da apresentação [WEAC](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing) + [playlist de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kY5VOzsPdB5Iqgsh40meuL)- Material do PEO para [Implementação do Preditor de Desvio](https://github.com/arduinoufv/inf450_peo/blob/master/semana/semana2.md#24-implementa%C3%A7ao-de-desvio-dinamico) e Material do Curso de [2021](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kyUihym8cOfDeSV4b4JdqK)
 
 12. [18/4] Revisão Prova 1 [Multiplas Unidades, Unroll e Software Pipeline](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lvn_wC_KJBNxMkouDPfSEY) e [Colab interativo](https://colab.research.google.com/drive/1D4t6FIDFG53A0IDi4hVftWt1IjuZBYJe?usp=sharing) - Pasta com várias [provas](https://drive.google.com/drive/folders/1ypruNWlIt7wZmCbiMuIsOE--XXmfTlFW?usp=sharing): Tem questões com MIPS (semelhantes a RISCV) e as questões de software pipelining não incluem balanceamento.
