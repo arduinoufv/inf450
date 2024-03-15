@@ -45,10 +45,29 @@
 -----
 
 ### Aula 18/3
-8  
-9. 21/3 10. 25/3 Slides da apresentação para desvios [WEAC](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing) Alguns exercícios em construção no [colab](https://colab.research.google.com/drive/1dfPUIWJB6WHXB4FSGvIvu7paOGFJ3hdg?usp=sharing)
-11. [13/4] Implementacao do Preditor de Desvio [artigo com implementação do preditor ](https://drive.google.com/file/d/1OwYKriZ7ZO-vyjqkrxkEaGVxqul_YnwH/view?usp=sharing), slides da apresentação [WEAC](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing) + [playlist de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kY5VOzsPdB5Iqgsh40meuL)- Material do PEO para [Implementação do Preditor de Desvio](https://github.com/arduinoufv/inf450_peo/blob/master/semana/semana2.md#24-implementa%C3%A7ao-de-desvio-dinamico) e Material do Curso de [2021](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kyUihym8cOfDeSV4b4JdqK)
 
+* [Colab com exercícios de predição de desvios](https://colab.research.google.com/drive/1dfPUIWJB6WHXB4FSGvIvu7paOGFJ3hdg?usp=sharing)
+*  Slides da apresentação para [implementação do preditor desvio MIPS WEAC](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing)
+*   [artigo com implementação do preditor ](https://drive.google.com/file/d/1OwYKriZ7ZO-vyjqkrxkEaGVxqul_YnwH/view?usp=sharing)
+
+---
+#### Material adicional
+* [playlist de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kY5VOzsPdB5Iqgsh40meuL)- Material do PEO para [Implementação do Preditor de Desvio](https://github.com/arduinoufv/inf450_peo/blob/master/semana/semana2.md#24-implementa%C3%A7ao-de-desvio-dinamico) e Material do Curso de [2021](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kyUihym8cOfDeSV4b4JdqK)
+
+### Aula 21/3
+
+### Aula 25/3
+
+### Aula 1/4
+
+### Aula 4/4 
+* Revisão para Prova: Múltiplas Unidades, Loop Unrolling, Software Pipeline, Escalonamento Dinâmico, Superscalar, VLIW, Escalonamento em GPU, Predição de Desvio
+
+### PROVA 1 8/4
+
+
+
+---
 12. [18/4] Revisão Prova 1 [Multiplas Unidades, Unroll e Software Pipeline](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lvn_wC_KJBNxMkouDPfSEY) e [Colab interativo](https://colab.research.google.com/drive/1D4t6FIDFG53A0IDi4hVftWt1IjuZBYJe?usp=sharing) - Pasta com várias [provas](https://drive.google.com/drive/folders/1ypruNWlIt7wZmCbiMuIsOE--XXmfTlFW?usp=sharing): Tem questões com MIPS (semelhantes a RISCV) e as questões de software pipelining não incluem balanceamento.
 13. [20/4] Aula [ETH Prof. Onur, Execucao Fora de Ordem](https://youtu.be/AhtIrJNSQws)
 14. [24/4] Revisao
