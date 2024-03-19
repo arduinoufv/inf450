@@ -48,13 +48,16 @@
 
 * [Colab com exercícios de predição de desvios](https://colab.research.google.com/drive/1dfPUIWJB6WHXB4FSGvIvu7paOGFJ3hdg?usp=sharing)
 *  Slides da apresentação para [implementação do preditor desvio MIPS WEAC](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing)
-*   [artigo com implementação do preditor ](https://drive.google.com/file/d/1OwYKriZ7ZO-vyjqkrxkEaGVxqul_YnwH/view?usp=sharing)
+*   [artigo com implementação do preditor ](https://drive.google.com/file/d/1OwYKriZ7ZO-vyjqkrxkEaGVxqul_YnwH/view?usp=sharing)]
+*   [gravação da aula, parte da aula está no trabalho 2 (acima)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mtGYVX9y5Dng7JA207IxHA)
 
 ---
 #### Material adicional
 * [playlist de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kY5VOzsPdB5Iqgsh40meuL)- Material do PEO para [Implementação do Preditor de Desvio](https://github.com/arduinoufv/inf450_peo/blob/master/semana/semana2.md#24-implementa%C3%A7ao-de-desvio-dinamico) e Material do Curso de [2021](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kyUihym8cOfDeSV4b4JdqK)
 
 ### Aula 21/3
+
+* Elaboração de mais exemplos para trabalho 2 e atualização do [Colab com exercícios de predição de desvios](https://colab.research.google.com/drive/1dfPUIWJB6WHXB4FSGvIvu7paOGFJ3hdg?usp=sharing)
 
 ### Aula 25/3
 
