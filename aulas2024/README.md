@@ -58,6 +58,7 @@
 ### Aula 21/3
 
 * Elaboração de mais exemplos para trabalho 2 e atualização do [Colab com exercícios de predição de desvios](https://colab.research.google.com/drive/1dfPUIWJB6WHXB4FSGvIvu7paOGFJ3hdg?usp=sharing)
+* [gravação de exemplos de calculo de CPI com desvios](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mEdSa3WbYflu2p2-SqGQj2)
 
 ### Aula 25/3
 
