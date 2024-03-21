@@ -15,12 +15,12 @@
 ## Cronograma de Aulas
 
 1.  [4/3 Apresentação do Curso - Slides ](https://docs.google.com/presentation/d/1_LykWtdGVN7RCOvt1C8jXhd5BZuPTYUz1-FzViksB7w/edit?usp=sharing)
-   - Gravação da aula [Playlist (sem som...vou ver como resolver)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6miSfrLNHoPpu04j_utvQsE)
+
      
 ## Parte I Processador 
 ### Aula 7/3 Múltiplas Unidades Funcionais 
 
-[slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing), exemplos da [aula com colab](https://colab.research.google.com/drive/1zhO5TzSEAy0P_EKT5oNtp_BR0lg-ZZhO?usp=sharing) - [gravação da aula  (sem som...vou ver como resolver)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nFp5YHAOmOaS5umpZnTAun) exemplos: [exercicio 1](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing)
+[slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing), exemplos da [aula com colab](https://colab.research.google.com/drive/1zhO5TzSEAy0P_EKT5oNtp_BR0lg-ZZhO?usp=sharing) - [Playlist dos anos anteriores](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lr3NML6Y6RBjmfZwCODGCp) exemplos: [exercicio 1](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing)
 
 ---
 
