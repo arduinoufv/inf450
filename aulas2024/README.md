@@ -4,7 +4,7 @@
 
 * 3 provas (80 pontos): Prova 1 (30 pontos) data 8/4/24, Prova 2 (30 pontos) data 13/5/24, Prova 3 ( 20 pontos) data 24/6/24
 * trabalhos (20 pontos):
-    * [Colab Software Pipeline - entregar 21/3](https://colab.research.google.com/drive/1VWXS56-z9rLYp8QoCEjrsbcXPvle5fms?usp=sharing) (1 ponto) - [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHam_rZiWIuRMRvBFD-bl0) - 
+    * [Colab Software Pipeline - entregar 24/3](https://colab.research.google.com/drive/1VWXS56-z9rLYp8QoCEjrsbcXPvle5fms?usp=sharing) (1 ponto) - [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHam_rZiWIuRMRvBFD-bl0) - Enviar pelo [Form](https://github.com/arduinoufv/inf450/tree/master/aulas2024)
     * [Colab Predição Desvio (4 pontos) - entregar 8/4](https://colab.research.google.com/drive/1dfPUIWJB6WHXB4FSGvIvu7paOGFJ3hdg?usp=sharing)  [algumas dicas](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mEdSa3WbYflu2p2-SqGQj2)
     * Cache Emulador (1 ponto)
     * Cache Maquina Estados (4 pontos)
