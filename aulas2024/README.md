@@ -63,6 +63,9 @@
 ### Aula 25/3
 
 * Ślides [preditores estáticos e dinâmicos](https://docs.google.com/presentation/d/1Fd3ZL187-p5zRFGn-lhfRlMppTzJG_d7Tvhq5uCU2mM/edit#slide=id.p51)
+* [slides ETH](https://safari.ethz.ch/digitaltechnik/spring2021/lib/exe/fetch.php?media=onur-digitaldesign_comparch-2021-lecture17b-branch-prediction-i-afterlecture.pdf)
+* [Andre Seznec](https://team.inria.fr/alf/members/andre-seznec/branch-prediction-research/)
+* [paper RNN branch preditor](https://cseweb.ucsd.edu/~atsmith/rnn_branch.pdf)
 
 ### Aula 1/4
 
