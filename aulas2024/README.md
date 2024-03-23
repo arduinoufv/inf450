@@ -62,6 +62,8 @@
 
 ### Aula 25/3
 
+* Ślides [preditores estáticos e dinâmicos](https://docs.google.com/presentation/d/1Fd3ZL187-p5zRFGn-lhfRlMppTzJG_d7Tvhq5uCU2mM/edit#slide=id.p51)
+
 ### Aula 1/4
 
 ### Aula 4/4 
