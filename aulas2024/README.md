@@ -61,7 +61,7 @@
 * [gravação de exemplos de calculo de CPI com desvios](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mEdSa3WbYflu2p2-SqGQj2)
 
 ### Aula 25/3
-
+* [Motivação com experimentos](https://johnnysswlab.com/how-branches-influence-the-performance-of-your-code-and-what-can-you-do-about-it/#experiments)
 * Ślides [preditores estáticos e dinâmicos](https://docs.google.com/presentation/d/1Fd3ZL187-p5zRFGn-lhfRlMppTzJG_d7Tvhq5uCU2mM/edit#slide=id.p51)
 * [slides ETH](https://safari.ethz.ch/digitaltechnik/spring2021/lib/exe/fetch.php?media=onur-digitaldesign_comparch-2021-lecture17b-branch-prediction-i-afterlecture.pdf)
 * [website of COMP3710 Special Topics course on Computer Microarchitecture](https://comp.anu.edu.au/courses/comp3710-uarch/assets/lectures/week5-part1.pdf)
