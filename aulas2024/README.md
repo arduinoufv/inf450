@@ -10,6 +10,11 @@
     * Cache Maquina Estados (4 pontos)
     * Multiplicador Matriz Esparsa ( 5 pontos)
     * KNN GPU ( 5 pontos)
+ 
+## Provas
+
+* [prova 1 de 2023](https://docs.google.com/document/d/1HKhF6WCDqGJV9DjXn4wobdmdpJ93QTWRy9bvmrsTdMk/edit?usp=sharing)
+* 
 ## Referências
 
 ## Cronograma de Aulas
