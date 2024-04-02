@@ -14,7 +14,8 @@
 ## Provas
 
 * [prova 1 de 2023](https://docs.google.com/document/d/1HKhF6WCDqGJV9DjXn4wobdmdpJ93QTWRy9bvmrsTdMk/edit?usp=sharing)
-* 
+* [aulas de revisão para prova 1 - videos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k20wxLsvFSQ51MR-h43H5x)
+  
 ## Referências
 
 ## Cronograma de Aulas
