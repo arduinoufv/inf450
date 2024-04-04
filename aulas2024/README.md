@@ -16,6 +16,8 @@
 ### [prova 1 de 2023](https://docs.google.com/document/d/1HKhF6WCDqGJV9DjXn4wobdmdpJ93QTWRy9bvmrsTdMk/edit?usp=sharing)
    * [aulas de revisão para prova 1 - videos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k20wxLsvFSQ51MR-h43H5x)
    * [link para varios exercicios](https://docs.google.com/document/d/10kRc7-q523lbNlzMwPvEdi3tRXC46Ixwn1aHNw6OL1o/edit?usp=sharing)
+   * [exercicio da aula de revisao multiplas unidades, escalonamento dinamico ou tomasulo, software pipelining](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing)
+   * [2 exercicios aula de revisao do preditor de desvio](https://docs.google.com/document/d/128oRc9jFsmcIs31eA2KmzvehaM_9v2ay8JH2WwBhZvk/edit?usp=sharing)
   
 ## Referências
 
