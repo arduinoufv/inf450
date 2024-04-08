@@ -13,7 +13,7 @@
  
 ## Provas
 
-### [prova 1 de 2023](https://docs.google.com/document/d/1HKhF6WCDqGJV9DjXn4wobdmdpJ93QTWRy9bvmrsTdMk/edit?usp=sharing)
+### [prova 1 de 2023 na sala 302 PVB  8/4](https://docs.google.com/document/d/1HKhF6WCDqGJV9DjXn4wobdmdpJ93QTWRy9bvmrsTdMk/edit?usp=sharing)
    * [aulas de revisão para prova 1 - videos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k20wxLsvFSQ51MR-h43H5x)
    * [link para varios exercicios](https://docs.google.com/document/d/10kRc7-q523lbNlzMwPvEdi3tRXC46Ixwn1aHNw6OL1o/edit?usp=sharing)
    * [exercicio da aula de revisao multiplas unidades, escalonamento dinamico ou tomasulo, software pipelining](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing)
@@ -87,10 +87,16 @@
 
 
 ---
+
+# Não considerar daqui para baixo.....material do ano passado
+
+---
+
+
 12. [18/4] Revisão Prova 1 [Multiplas Unidades, Unroll e Software Pipeline](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lvn_wC_KJBNxMkouDPfSEY) e [Colab interativo](https://colab.research.google.com/drive/1D4t6FIDFG53A0IDi4hVftWt1IjuZBYJe?usp=sharing) - Pasta com várias [provas](https://drive.google.com/drive/folders/1ypruNWlIt7wZmCbiMuIsOE--XXmfTlFW?usp=sharing): Tem questões com MIPS (semelhantes a RISCV) e as questões de software pipelining não incluem balanceamento.
 13. [20/4] Aula [ETH Prof. Onur, Execucao Fora de Ordem](https://youtu.be/AhtIrJNSQws)
 14. [24/4] Revisao
-15. [27/4] Prova I - **ATENÇÂO PVA, PVA**...PVA 277
+15. [27/4] 
 16. [4/5]  [Cache e Tipos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kXe1ov2pKVgZAY_HemWrCI) e [Colab](https://colab.research.google.com/drive/1EBcmbqwhJYq17t9Z9XXHUXhDzC_ER3C1?usp=sharing)
 17. [8/5]  [Calculo de Custo dos tres tipos de cache e sequencia de acesso](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mBui1oFPC7Aq3q7_dNrjBx)
 18. [11/5] [Projeto de Cache](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDv1GhR8eLMkzxwKzXGDvo) 
