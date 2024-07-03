@@ -83,8 +83,15 @@
 
 ### PROVA 1 8/4
 
+### Aula 8/7 - Introdução a Cache
+* Tempo médio de acesso, Localidade Temporal e Espacial, Tipos de Cache
+* [Colab com material teórico para Caches](https://colab.research.google.com/drive/1n2YcCXjPS0bZqhncxPiVg8nnOUv9A_4r?usp=sharing)
 
+### Aula 11/7 - Simulador de Tipos de Cache
+* Exemplos de acesso a cache
+* [Colab do Trabalho 3](https://colab.research.google.com/drive/1bcJqZtCyqEoQvze2O5SJpIA84d6mLYX2?usp=sharing)
 
+### Aula 15/7 - Escrita e Substituição em Cache
 ---
 
 # Não considerar daqui para baixo.....material do ano passado
