@@ -92,6 +92,22 @@
 * [Colab do Trabalho 3](https://colab.research.google.com/drive/1bcJqZtCyqEoQvze2O5SJpIA84d6mLYX2?usp=sharing)
 
 ### Aula 15/7 - Escrita e Substituição em Cache
+### Aula 18/7 - Memória Virtual e Paginação
+### Aula 22/7 - Paginação em 2 Níveis e TLB
+### Aula 25/7 - Segmentação e Introdução a Memória de GPU
+### Aula 29/7 - GPU: Registros, Global, Cache, Compartilhada, Constante e Textura
+### Aula 1/8 - Revisão: Cache, Virtual e GPU 
+### Prova 2 - 5/8
+### 8/8 - Multiprocessador, Cache e GPU e seus Multiprocessadores
+### 12/8 - MMX, AVX e Processadores Vetoriais
+### 15/8 - Array Processors e GPU blocos e Warps
+### 19/8 - Dataflow
+### 22/8 - Sistólico
+### 26/8 - GPU redução, desvios
+### 29/8 - GPU e aprendizado de máquina
+### 2/9 - Revisão
+### 5/9 - Prova 3
+
 ---
 
 # Não considerar daqui para baixo.....material do ano passado
