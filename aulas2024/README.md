@@ -2,7 +2,7 @@
 
 ## Avaliação
 
-* 3 provas (80 pontos): Prova 1 (30 pontos) data 8/4/24, Prova 2 (30 pontos) data 13/5/24, Prova 3 ( 20 pontos) data 24/6/24
+* 3 provas (80 pontos): Prova 1 (30 pontos) data 8/4/24, Prova 2 (30 pontos) data 5/8/24, Prova 3 ( 20 pontos) data 5/9/24
 * trabalhos (20 pontos):
     * [Colab Software Pipeline - entregar 24/3](https://colab.research.google.com/drive/1VWXS56-z9rLYp8QoCEjrsbcXPvle5fms?usp=sharing) (1 ponto) - [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHam_rZiWIuRMRvBFD-bl0) - Enviar pelo [Form](https://forms.gle/dLRQ3a7121Ys5afMA)
     * [Colab Predição Desvio (4 pontos) - entregar 8/4](https://colab.research.google.com/drive/1cjmYKPBetNO5LXSxDOXy9FCzcWZB5nwr?usp=sharing)  [algumas dicas](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mEdSa3WbYflu2p2-SqGQj2) para enviar o trabalho use o [link](https://forms.gle/eypiednBpMyo5quU8)
