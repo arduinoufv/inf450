@@ -84,18 +84,18 @@
 ### PROVA 1 8/4
 
 ### Aula 8/7 - Introdução a Cache
-* Tempo médio de acesso, Localidade Temporal e Espacial, Tipos de Cache
+* [Tempo médio de acesso, Localidade Temporal e Espacial, Tipos de Cache playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mWgCQPrPFnk3QVQCXTWIpX)
 * [Colab com material teórico para Caches](https://colab.research.google.com/drive/1n2YcCXjPS0bZqhncxPiVg8nnOUv9A_4r?usp=sharing)
 
-### Aula 11/7 - Simulador de Tipos de Cache
-* Exemplos de acesso a cache
+### Aula 11/7 - Simulador de Tipos de Cache e Politicas
+* [Escrita e Substituição em Cache](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mBZbqqdc4Jj6b1bJClQnX3)
 * [Colab do Trabalho 3](https://colab.research.google.com/drive/1bcJqZtCyqEoQvze2O5SJpIA84d6mLYX2?usp=sharing)
 
-### Aula 15/7 - Escrita e Substituição em Cache
-### Aula 18/7 - Memória Virtual e Paginação
-### Aula 22/7 - Paginação em 2 Níveis e TLB
-### Aula 25/7 - Segmentação e Introdução a Memória de GPU
-### Aula 29/7 - GPU: Registros, Global, Cache, Compartilhada, Constante e Textura
+### Aula 15/7 - Memória Virtual e Paginação
+### Aula 18/7 - Paginação em 2 Níveis e TLB
+### Aula 22/7 - Segmentação e Introdução a Memória de GPU
+### Aula 25/7 - GPU: Registros, Global, Cache, Compartilhada, Constante,Textura e Atômico
+### Aula 29/7 - Revisão Cache e Virtual e GPU
 ### Aula 1/8 - Revisão: Cache, Virtual e GPU 
 ### Prova 2 - 5/8
 ### 8/8 - Multiprocessador, Cache e GPU e seus Multiprocessadores
