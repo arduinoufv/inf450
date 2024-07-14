@@ -17,7 +17,10 @@
    * [link para varios exercicios](https://docs.google.com/document/d/10kRc7-q523lbNlzMwPvEdi3tRXC46Ixwn1aHNw6OL1o/edit?usp=sharing)
    * [exercicio da aula de revisao multiplas unidades, escalonamento dinamico ou tomasulo, software pipelining](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing)
    * [2 exercicios aula de revisao do preditor de desvio](https://docs.google.com/document/d/128oRc9jFsmcIs31eA2KmzvehaM_9v2ay8JH2WwBhZvk/edit?usp=sharing)
-  
+
+### Prova 2
+   * [questões de cache](https://colab.research.google.com/drive/1XQLvuxpYUgpElDP6Q6hs6V_QbSk4bT3s?usp=sharing)
+   * 
 ## Referências
 
 ## Cronograma de Aulas
