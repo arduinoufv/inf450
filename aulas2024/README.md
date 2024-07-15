@@ -97,6 +97,7 @@
 ### Aula 15/7 - Memória Virtual e Paginação
 * [Colab de Introdução a Memória Virtual](https://colab.research.google.com/drive/1yFMBKIOR94sudsBO0Z3nhZ4xExBITQnx?usp=sharing)
 ### Aula 18/7 - Paginação em 2 Níveis e TLB
+* [Exercícios de Memória Virtual (em manutenção)](https://colab.research.google.com/drive/1ohzBmtaEW1Rgx0zmhMlHg8bBYC2SzkD2?usp=sharing)
 ### Aula 22/7 - Segmentação e Introdução a Memória de GPU
 ### Aula 25/7 - GPU: Registros, Global, Cache, Compartilhada, Constante,Textura e Atômico
 ### Aula 29/7 - Revisão Cache e Virtual e GPU
