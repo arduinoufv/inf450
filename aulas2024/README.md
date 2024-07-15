@@ -20,7 +20,7 @@
 
 ### Prova 2
    * [questões de cache](https://colab.research.google.com/drive/1XQLvuxpYUgpElDP6Q6hs6V_QbSk4bT3s?usp=sharing)
-   * 
+   * [Playlist de questoes de prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m4WH8mA1jCZIclxov7jHTd)
 ## Referências
 
 ## Cronograma de Aulas
@@ -96,6 +96,7 @@
 
 ### Aula 15/7 - Memória Virtual e Paginação
 * [Colab de Introdução a Memória Virtual](https://colab.research.google.com/drive/1yFMBKIOR94sudsBO0Z3nhZ4xExBITQnx?usp=sharing)
+* [Playlist da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6neZ2mL7EUe50dxEqcm__pF)
 ### Aula 18/7 - Paginação em 2 Níveis e TLB
 * [Exercícios de Memória Virtual (em manutenção)](https://colab.research.google.com/drive/1ohzBmtaEW1Rgx0zmhMlHg8bBYC2SzkD2?usp=sharing)
 ### Aula 22/7 - Segmentação e Introdução a Memória de GPU
