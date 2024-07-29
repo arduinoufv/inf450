@@ -21,6 +21,7 @@
 ### Prova 2
    * [questões de cache](https://colab.research.google.com/drive/1XQLvuxpYUgpElDP6Q6hs6V_QbSk4bT3s?usp=sharing)
    * [Playlist de questoes de prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m4WH8mA1jCZIclxov7jHTd)
+   * [questões de memória virtual](https://colab.research.google.com/drive/1ohzBmtaEW1Rgx0zmhMlHg8bBYC2SzkD2?usp=sharing)
 ## Referências
 
 ## Cronograma de Aulas
