@@ -20,9 +20,9 @@
  
 ### Prova 2
    * [Playlist da ultima aula de revisão](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mTiNw7OUzrZZw1zugMEBIw)
-   * [questões de cache](https://colab.research.google.com/drive/1XQLvuxpYUgpElDP6Q6hs6V_QbSk4bT3s?usp=sharing)
+   * [questões de cache no colab](https://colab.research.google.com/drive/1XQLvuxpYUgpElDP6Q6hs6V_QbSk4bT3s?usp=sharing)
    * [Playlist de questoes de prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m4WH8mA1jCZIclxov7jHTd)
-   * [questões de memória virtual](https://colab.research.google.com/drive/1ohzBmtaEW1Rgx0zmhMlHg8bBYC2SzkD2?usp=sharing)
+   * [questões de memória virtual no colab](https://colab.research.google.com/drive/1ohzBmtaEW1Rgx0zmhMlHg8bBYC2SzkD2?usp=sharing)
    * [prova 2 de 2023](https://docs.google.com/document/d/1O81P4sPiwqNEIgymIdEAubdqdjn6q6pPMf10V146leQ/edit?usp=sharing)
 ## Referências
 
