@@ -108,10 +108,10 @@
 ### Aula 1/8 - Revisão: Cache, Virtual e GPU 
 ### Prova 2 - 5/8
 ### 8/8 - Multiprocessador, Cache e GPU e seus Multiprocessadores
-### 12/8 - MMX, AVX e Processadores Vetoriais
+### 12/8 - MMX, AVX e Processadores Vetoriais 
 ### 15/8 - Array Processors e GPU blocos e Warps
 ### 19/8 - Dataflow
-### 22/8 - Sistólico
+### 22/8 - Sistólico [tensor cores na GPU](https://developer.nvidia.com/blog/programming-tensor-cores-cuda-9/)
 ### 26/8 - GPU redução, desvios
 ### 29/8 - GPU e aprendizado de máquina
 ### 2/9 - Revisão
