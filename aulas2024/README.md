@@ -107,11 +107,13 @@
 ### Aula 29/7 - Revisão Cache e Virtual e GPU
 ### Aula 1/8 - Revisão: Cache, Virtual e GPU 
 ### Prova 2 - 5/8
-### 8/8 - [knn video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9AF53ZYVJW06ulOofJxz8) e [Colab](https://colab.research.google.com/drive/1beqQ1hFYReaCydp3RthAReK7PrmQqH2w?usp=sharing)
-### 12/8 - Multiprocessador, Cache e GPU e seus Multiprocessadores, MMX, AVX e Processadores Vetoriais 
-### 15/8 - Array Processors e GPU blocos e Warps
+### 8/8 - 
+ #### [knn video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9AF53ZYVJW06ulOofJxz8) e [Colab](https://colab.research.google.com/drive/1beqQ1hFYReaCydp3RthAReK7PrmQqH2w?usp=sharing)
+ #### [Introducao a GPU](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m4_ze2EIJiG33kFHUXvxsV)
+### 12/8 - [MMX, AVX e Processadores Vetoriais](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCIFhWypzBmXAlktrLtSiY) 
+### 15/8 - [Array Processors](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nvab9q-FU68K9InStRnsBi)
 ### 19/8 - Dataflow
-### 22/8 - Sistólico [tensor cores na GPU](https://developer.nvidia.com/blog/programming-tensor-cores-cuda-9/)
+### 22/8 - [Sistólico playlist da Aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lKw1ms9oN4oFT6nqQbbdOr), [tensor cores na GPU](https://developer.nvidia.com/blog/programming-tensor-cores-cuda-9/)
 ### 26/8 - GPU redução, desvios
 ### 29/8 - GPU e aprendizado de máquina
 ### 2/9 - Revisão
