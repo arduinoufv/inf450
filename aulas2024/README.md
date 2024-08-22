@@ -110,6 +110,7 @@
 ### 8/8 - 
  #### [knn video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9AF53ZYVJW06ulOofJxz8) e [Colab](https://colab.research.google.com/drive/1beqQ1hFYReaCydp3RthAReK7PrmQqH2w?usp=sharing)
  #### [Introducao a GPU](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m4_ze2EIJiG33kFHUXvxsV)
+ #### [Colab de Introdução a GPU](https://colab.research.google.com/drive/1A9hGdkwqPrdzWcd339aeCd2uQ55DM6vg)
 ### 12/8 - [MMX, AVX e Processadores Vetoriais](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCIFhWypzBmXAlktrLtSiY) 
 ### 15/8 - [Array Processors](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nvab9q-FU68K9InStRnsBi)
 ### 19/8 - Dataflow
