@@ -8,7 +8,7 @@
     * [Colab Predição Desvio (4 pontos) - entregar 8/4](https://colab.research.google.com/drive/1cjmYKPBetNO5LXSxDOXy9FCzcWZB5nwr?usp=sharing)  [algumas dicas](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mEdSa3WbYflu2p2-SqGQj2) para enviar o trabalho use o [link](https://forms.gle/eypiednBpMyo5quU8)
     * Cache Emulador (5 pontos) [colab](https://colab.research.google.com/drive/1bcJqZtCyqEoQvze2O5SJpIA84d6mLYX2?usp=sharing) e gravação com [explicações](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mLlsIbX_znn0699kaoy9m_)
     *
-    * KNN GPU ( 10  pontos) [video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9AF53ZYVJW06ulOofJxz8)
+    * KNN GPU ( 10  pontos) [video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9AF53ZYVJW06ulOofJxz8) + [colab do trabalho](https://colab.research.google.com/drive/1beqQ1hFYReaCydp3RthAReK7PrmQqH2w?usp=sharing)
  
 ## Provas
 
