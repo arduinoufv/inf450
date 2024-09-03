@@ -117,7 +117,7 @@
 ### 22/8 - [Sistólico playlist da Aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lKw1ms9oN4oFT6nqQbbdOr), [tensor cores na GPU](https://developer.nvidia.com/blog/programming-tensor-cores-cuda-9/)
 ### 26/8 - GPU redução, desvios
 ### 29/8 - GPU e aprendizado de máquina
-### 2/9 - Revisão
+### 2/9 - [Revisão](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFyP3-0l-mxfsetMey_hAj) e [colab](https://colab.research.google.com/drive/1YTPxp2t5KBBlTtdq6ThdgUnS4-u2a2xc?usp=sharing)
 ### 5/9 - Prova 3
 
 ---
