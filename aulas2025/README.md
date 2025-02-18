@@ -1,10 +1,10 @@
 # Avaliação
  
-* 3 provas de 30 pontos (90 pts) - Prova I 14/4/25, Prova II /25, Prova III 3/7/25
+* 3 provas de 30 pontos (90 pts) - Prova I 14/4/25, Prova II 26/5/25, Prova III 3/7/25
 * Trabalhos (10 pontos - serão cobrados na prova - Trabalho em Grupo mas a arguição é individual)
-    * Simulador Tomasulo em Python 3 pontos
-    * Simulador Cache 4 Way 5 pontos
-    * Simulador Dataflow 2 pontos
+    * Simulador Tomasulo em Python 3 pontos - 10/4/25
+    * Simulador Cache 4 Way 5 pontos - 19/5/25
+    * Simulador Dataflow 2 pontos - 30/6/25
 # Referências
 * [apostilas]()
 * [Computer Organization and Design MIPS (or RiscV) Edition: The Hardware/Software Interface 5th Edition](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269)
@@ -22,23 +22,23 @@
 ## Aula 9 07/4/25  - Revisão
 ## Aula 10 10/4/25 - Revisão
 ## Aula 11 14/4/25 - Prova I (semana santa/tiradentes)
-## Aula 12 24/4/25 - 
-## Aula 13 28/4/25   (trabalho)
-## Aula 14 5/5/25    
-## Aula 15 8/5/25
-## Aula 16 12/5/25
-## Aula 17 15/5/25
-## Aula 18 19/5/25   (santa rita)
-## Aula 19 26/5/25
-## Aula 20 29/5/25
-## Aula 21 2/6/25
-## Aula 22 5/6/25
-## Aula 23 9/6/25
-## Aula 24 12/6/25
-## Aula 25 16/6/25   (corpus)
-## Aula 26 23/6/25
-## Aula 27 26/6/25
-## Aula 28 30/6/25
+## Aula 12 24/4/25 - Introdução as Caches e seus tipos
+## Aula 13 28/4/25 - Implementação Caches  (trabalho)
+## Aula 14 5/5/25  - Implementação Caches e Politicas de Substituição  
+## Aula 15 8/5/25  - Tempo, Níveis, Compartilhamento
+## Aula 16 12/5/25 - Memória Virtual e Paginação
+## Aula 17 15/5/25 - Paginação em 2 níveis ou mais
+## Aula 18 19/5/25 - TLB e Revisão  (santa rita)
+## Aula 19 26/5/25 - Prova II
+## Aula 20 29/5/25 - Dataflow 
+## Aula 21 2/6/25  - Maquina Vetorial
+## Aula 22 5/6/25  - Multiprocessadores e Extensões Vetoriais
+## Aula 23 9/6/25  - Arquiteturas SIMD
+## Aula 24 12/6/25 - Arquiteturas Sistólicas
+## Aula 25 16/6/25 - Arquitetura GPU memórias  (corpus)
+## Aula 26 23/6/25 - Arquitetura GPU multiprocessadores
+## Aula 27 26/6/25 - Arquitetura GPU PTX e Registradores 
+## Aula 28 30/6/25 - Revisão 
 ## Aula 29 3/7/25   Prova III
 
 
