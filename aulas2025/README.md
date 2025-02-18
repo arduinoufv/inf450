@@ -12,6 +12,10 @@
 # Cronograma de Aulas
 
 ## Aula 1 10/3/25 - Multiplas Unidades Funcionais
+* [slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing)
+* Exemplos da [aula com colab](https://colab.research.google.com/drive/1zhO5TzSEAy0P_EKT5oNtp_BR0lg-ZZhO?usp=sharing)
+* [Exercicio 1](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing)
+
 ## Aula 2 13/3/25 - Loop Unroolling e Escalonamento Estático 
 ## Aula 3 17/3/25 - Software Pipelining (assíncrona)
 ## Aula 4 20/3/25 - Tomasulo (síncrona)
@@ -46,12 +50,15 @@
 
 
 
+--------------------------------------------------------
 
+Anos Anteriores
+
+-------------------------------------------------------
      
 ## Parte I Processador 
 ### Aula 7/3 Múltiplas Unidades Funcionais 
 
-[slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing), exemplos da [aula com colab](https://colab.research.google.com/drive/1zhO5TzSEAy0P_EKT5oNtp_BR0lg-ZZhO?usp=sharing) - [Playlist dos anos anteriores](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lr3NML6Y6RBjmfZwCODGCp) exemplos: [exercicio 1](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing)
 
 ---
 
