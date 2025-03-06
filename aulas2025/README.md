@@ -1,10 +1,11 @@
 # Avaliação
  
-* 3 provas de 30 pontos (90 pts) - Prova I 14/4/25, Prova II 26/5/25, Prova III 3/7/25
+* 2 provas de 30 pontos e uma prova de 27 pontos (87 pts) - Prova I 14/4/25, Prova II 26/5/25, Prova III 3/7/25
 * Trabalhos (10 pontos - serão cobrados na prova - Trabalho em Grupo mas a arguição é individual)
     * Simulador Tomasulo em Python 3 pontos - 10/4/25
     * Simulador Cache 4 Way 5 pontos - 19/5/25
     * Simulador Dataflow 2 pontos - 30/6/25
+* Lista : Software Pipeline, Tomasulo, Predição Desvios (1 ponto cada)
 # Referências
 * [apostilas]()
 * [Computer Organization and Design MIPS (or RiscV) Edition: The Hardware/Software Interface 5th Edition](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269)
@@ -34,7 +35,7 @@
 * [exemplos com resposta](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing)
 
 ## Aula 5 24/3/25 - Predição de Desvios (síncrona)
-
+* Entregar a lista de exercícios de Software Pipeline (1 ponto)
 * [Colab de Predição de Desvios](https://colab.research.google.com/drive/1H2an9LBEouzM9V81U9PHCeX1GZwTItLU?usp=sharing)
 
 ## Aula 6 27/3/25 - Predição de Desvios (síncrona)
