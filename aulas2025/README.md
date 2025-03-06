@@ -5,7 +5,7 @@
     * Simulador Tomasulo em Python 3 pontos - 10/4/25
     * Simulador Cache 4 Way 5 pontos - 19/5/25
     * Simulador Dataflow 2 pontos - 30/6/25
-* Lista : Software Pipeline, Tomasulo, Predição Desvios (1 ponto cada)
+* Lista : Software Pipeline, Superescalar/VLIW e PTX (1 ponto cada)
 # Referências
 * [apostilas]()
 * [Computer Organization and Design MIPS (or RiscV) Edition: The Hardware/Software Interface 5th Edition](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269)
