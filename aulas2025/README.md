@@ -39,7 +39,7 @@
 * [Colab de Predição de Desvios](https://colab.research.google.com/drive/1H2an9LBEouzM9V81U9PHCeX1GZwTItLU?usp=sharing)
 
 ## Aula 6 27/3/25 - Predição de Desvios (síncrona)
-## Aula 7 31/3/25 - Superscalar, VLIW  e GPU (assícrona)
+## Aula 7 31/3/25 - Superscalar, VLIW  e GPU (assíncrona)
 ## Aula 8 03/4/25 - Assembler PTX e escalonamento estático (assíncrona)
 ## Aula 9 07/4/25  - Revisão 
 * Prazo final para lista PTX e VLIW/GPU, devolver na aula.
