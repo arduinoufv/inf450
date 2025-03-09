@@ -5,7 +5,7 @@
     * Simulador Tomasulo em Python 3 pontos - 10/4/25
     * Simulador Cache 4 Way 5 pontos - 19/5/25
     * Simulador Dataflow 2 pontos - 30/6/25
-* Lista : Software Pipeline, Superescalar/VLIW e PTX (1 ponto cada)
+* Lista : Software Pipeline, Superescalar/VLIW e PTX (1 ponto cada) - Individual e escrita a mão.
 # Referências
 * [apostilas]()
 * [Computer Organization and Design MIPS (or RiscV) Edition: The Hardware/Software Interface 5th Edition](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269)
@@ -41,7 +41,8 @@
 ## Aula 6 27/3/25 - Predição de Desvios (síncrona)
 ## Aula 7 31/3/25 - Superscalar, VLIW  e GPU (assícrona)
 ## Aula 8 03/4/25 - Assembler PTX e escalonamento estático (assíncrona)
-## Aula 9 07/4/25  - Revisão
+## Aula 9 07/4/25  - Revisão 
+* Prazo final para lista PTX e VLIW/GPU, devolver na aula.
 ## Aula 10 10/4/25 - Revisão
 ## Aula 11 14/4/25 - Prova I (semana santa/tiradentes)
 ## Aula 12 24/4/25 - Introdução as Caches e seus tipos
