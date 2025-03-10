@@ -12,7 +12,7 @@
 
 # Cronograma de Aulas
 
-## Aula 1 10/3/25 - Multiplas Unidades Funcionais
+## Aula 1 10/3/25 - Multiplas Unidades Funcionais [videos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lE-dC0VJ2V-TjCt3Bea1Tl)
 * [slides Multiplas unidades, Unrolling, Soft Pipelining e Escalonamentos](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing)
 * Exemplos da [aula com colab](https://colab.research.google.com/drive/1zhO5TzSEAy0P_EKT5oNtp_BR0lg-ZZhO?usp=sharing)
 * [Exercicio 1](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing)
