@@ -17,11 +17,11 @@
 * Exemplos da [aula com colab](https://colab.research.google.com/drive/1zhO5TzSEAy0P_EKT5oNtp_BR0lg-ZZhO?usp=sharing)
 * [Exercicio 1](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing)
 
-## Aula 2 13/3/25 - Loop Unroolling e Escalonamento Estático 
+## Aula 2 13/3/25 - Loop Unroolling e Escalonamento Estático [video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m9kKfCRkj-9wzfwVZfUL8G) 
 * [exemplos: unroll](https://docs.google.com/document/d/1VbJ5KoNpPBL990Hxp9_J4r0wJ1ThuCHeWmGWwinRLhQ/edit?usp=sharing)
 * [colab com "emulação" em python](https://colab.research.google.com/drive/1VXYg4UgnspfATiabb-CAkvkoII4IO0Nn?usp=sharing)
 
-## Aula 3 17/3/25 - Software Pipelining (assíncrona) [Clique Aqui para Assistir a aula e fazer os dois exercicios](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9xqFEfsVTfc1lOYyww07u)
+## Aula 3 17/3/25 - Software Pipelining (assíncrona) [Clique Aqui para Assistir a aula e fazer os dois exercicios, aqui tem os vidoes da aula presencial com as dicas para a lista](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9xqFEfsVTfc1lOYyww07u)
 * Slides Software Pipelining [Weac 2023](https://docs.google.com/presentation/d/176eY8fTNS0xd_VzsCKBBNn9xbN_dEvwVTR5h3ibtDns/edit?usp=sharing)
 * Artigo [weac 2023 - Ensino de Software Pipelining e Escalonamento em GPUs com Python](http://www2.sbc.org.br/ceacpad/ijcae/v12_n2_dec_2023/IJCAE_v12_n2_dez_2023_paper_3_vf.pdf)
 * [Colab indice do Artigo Weac 2023](https://colab.research.google.com/drive/1zpyc25cTdNnPoqY07MVJd6Cpcpm7_L9e?usp=sharing)
@@ -42,6 +42,7 @@
 ## Aula 7 31/3/25 - Superscalar, VLIW  e GPU (assíncrona)
 ## Aula 8 03/4/25 - Assembler PTX e escalonamento estático (assíncrona)
 ## Aula 9 07/4/25  - Revisão 
+* [Exemplos de questoes de Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWR7OxKKXbG8oE-xUCxpw4)
 * Prazo final para lista PTX e VLIW/GPU, devolver na aula.
 ## Aula 10 10/4/25 - Revisão
 ## Aula 11 14/4/25 - Prova I (semana santa/tiradentes)
