@@ -31,7 +31,7 @@
 
 ## Aula 4 20/3/25 - Tomasulo (síncrona)
 *  Escalonamento dinamico  ---- [simulador 1 com 10 exemplos](https://arthurmteodoro.github.io/tomasulo-simulator/index) ----- [simulador 2](https://naheel.xyz/tomasulo-sim/)  
-* Folha de exercicios da [aula revisão escalonamento dinamico e multiplas unidades](https://docs.google.com/document/d/1S4xz6zUmKN1bZ77NH3JbNzx_O8Y4sMX9dPjFn9ZOfwY/edit?usp=sharing) mais outros [exercicios para treino](https://docs.google.com/document/d/1JEj7AfNjVGiLLP3w6dl_SSQEhomq2xYt8P81Bw6uPvI/edit?usp=sharing) mais sugestões de [exercicio para treino](https://docs.google.com/document/d/1W19ofIvCMIcWTam78DMwOXRO555nKc80cljbKpRJyCk/edit?usp=sharing)
+* Folha de exercicios da [aula revisão escalonamento dinamico e multiplas unidades](https://docs.google.com/document/d/1S4xz6zUmKN1bZ77NH3JbNzx_O8Y4sMX9dPjFn9ZOfwY/edit?usp=sharing) mais outros [exercicios para treino da aula 20 marco](https://docs.google.com/document/d/1XX8jwdupN82-9vPxbYTiQcUnzMKQrkeWdalP_eUpi6A/edit?usp=sharing) mais sugestões de [exercicio para treino](https://docs.google.com/document/d/1W19ofIvCMIcWTam78DMwOXRO555nKc80cljbKpRJyCk/edit?usp=sharing)
 * [exemplos com resposta](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing)
 
 ## Aula 5 24/3/25 - Predição de Desvios (síncrona)
