@@ -2,7 +2,7 @@
  
 * 2 provas de 30 pontos e uma prova de 27 pontos (87 pts) - Prova I 14/4/25, Prova II 26/5/25, Prova III 3/7/25
 * Trabalhos (10 pontos - serão cobrados na prova - Trabalho em Grupo mas a arguição é individual)
-    * Simulador Tomasulo em Python 3 pontos - 10/4/25
+    * Simulador Tomasulo em Python 3 pontos - 10/4/25 - [Especificação Video](https://www.youtube.com/watch?v=wXvhKRUkJq4&list=PLcvOyD_LMr6nZYSK4Dfr7b55qBRUgxJXV&index=7) e [Colab](https://colab.research.google.com/drive/1YHrcZgxybtBlIu6SW-BQZRux1MpRfN6T?usp=sharing). Enviar email para agendar a apresentação do Grupo.
     * Simulador Cache 4 Way 5 pontos - 19/5/25
     * Simulador Dataflow 2 pontos - 30/6/25
 * Lista : Software Pipeline, Superescalar/VLIW e PTX (1 ponto cada) - Individual e escrita a mão.
@@ -29,7 +29,7 @@
 * [Exercicios para treino](https://docs.google.com/document/d/1iMePpBllLPABsJtC3P1knk6QhF9Mo2XuHR_l24cL4lw/edit?usp=sharing)
 * [Exemplos resolvidos](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing)
 
-## Aula 4 20/3/25 - Tomasulo (síncrona)
+## Aula 4 20/3/25 - Tomasulo (síncrona) [gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nZYSK4Dfr7b55qBRUgxJXV)
 *  Escalonamento dinamico  ---- [simulador 1 com 10 exemplos](https://arthurmteodoro.github.io/tomasulo-simulator/index) ----- [simulador 2](https://naheel.xyz/tomasulo-sim/)  
 * Folha de exercicios da [aula revisão escalonamento dinamico e multiplas unidades](https://docs.google.com/document/d/1S4xz6zUmKN1bZ77NH3JbNzx_O8Y4sMX9dPjFn9ZOfwY/edit?usp=sharing) mais outros [exercicios para treino da aula 20 marco](https://docs.google.com/document/d/1XX8jwdupN82-9vPxbYTiQcUnzMKQrkeWdalP_eUpi6A/edit?usp=sharing) mais sugestões de [exercicio para treino](https://docs.google.com/document/d/1W19ofIvCMIcWTam78DMwOXRO555nKc80cljbKpRJyCk/edit?usp=sharing)
 * [exemplos com resposta para as tecncias anteriores, pode usar o mesmo exemplo no trabalho do Tomasulo, resolvendo com escalonamento dinamico](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing)
