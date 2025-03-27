@@ -36,6 +36,7 @@
 * [consultar o livro Quantitative Approach para teoria do Tomasulo](https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
 
 ## Aula 5 24/3/25 - Predição de Desvios (síncrona)
+* [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n5ck1Wte2asogGWCSok3gP)
 * Entregar a lista de exercícios de Software Pipeline (1 ponto)
 * [Colab de Predição de Desvios](https://colab.research.google.com/drive/1H2an9LBEouzM9V81U9PHCeX1GZwTItLU?usp=sharing)
 
