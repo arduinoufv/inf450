@@ -44,9 +44,10 @@
 * [Simulador de Preditor Dinâmica para fazer a correção](https://colab.research.google.com/drive/19ffbZEbwlhMq95FpKd1S1TaN4IZcE-Yx?usp=sharing)
 * [2 exercícios para treino]()
   
-## Aula 7 31/3/25 - Superscalar, VLIW  e GPU (assíncrona)
-* [exercicio para entregar em papel, escrito a mão](https://docs.google.com/document/d/1LkOcmb5JF6cJj34Zog1XTgs2I4KWLS1foS_CLlfQQIU/edit?usp=sharing)
-## Aula 8 03/4/25 - Assembler PTX e escalonamento estático (assíncrona)
+## Aula 7 31/3/25 - Superscalar, VLIW  (assíncrona)
+* [Aula com as dicas para fazer o exercício 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kFiUbMsrqcF0BR_-L5Hp8S)
+* [exercicio para entregar em papel, escrito a mão](https://docs.google.com/document/d/1LkOcmb5JF6cJj34Zog1XTgs2I4KWLS1foS_CLlfQQIU/edit?usp=sharing) - Entregar até 7 de Abril no escaninho da secreatria do DPI.
+## Aula 8 03/4/25 - Assembler PTX da GPU e escalonamento estático (assíncrona)
 ## Aula 9 07/4/25  - Revisão 
 * [Exemplos de questoes de Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWR7OxKKXbG8oE-xUCxpw4)
 * Prazo final para lista PTX e VLIW/GPU, devolver na aula.
