@@ -45,6 +45,7 @@
 * [2 exercícios para treino]()
   
 ## Aula 7 31/3/25 - Superscalar, VLIW  e GPU (assíncrona)
+* [exercicio para entregar em papel, escrito a mão](https://docs.google.com/document/d/1LkOcmb5JF6cJj34Zog1XTgs2I4KWLS1foS_CLlfQQIU/edit?usp=sharing)
 ## Aula 8 03/4/25 - Assembler PTX e escalonamento estático (assíncrona)
 ## Aula 9 07/4/25  - Revisão 
 * [Exemplos de questoes de Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWR7OxKKXbG8oE-xUCxpw4)
