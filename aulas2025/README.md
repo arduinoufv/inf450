@@ -50,20 +50,9 @@
 ## Aula 8 03/4/25 - Assembler PTX da GPU e escalonamento estático (assíncrona)
 * [playlist de vídeo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6keaqk5T7drV1ZGEgskxh4X)
 * [lista de exercício de gpu](https://docs.google.com/document/d/1JzC20YiTkD8YZ9OdaNK9XbN9_fSrqfMTHjQRjk7B0gY/edit?usp=sharing)
-### GPU e WARPS
-
-* [Escalonamento em GPU com Warps](https://colab.research.google.com/drive/19ovRA0Y7pDyYSfYCu2aZsRO28ZS25BDg?usp=sharing)
-
-* [Versão com tabulate](https://colab.research.google.com/drive/18vFeeMEBO3WEFMWbNYQe74-GkDisPn_W?usp=sharing)
-
-
 * [Versão com html](https://colab.research.google.com/drive/1fX8K21hhJmUPXzzq52dTpDeCij8Sn5ys?usp=sharing)
-
-* [Versão com Cores I](https://colab.research.google.com/drive/1VqdQLibyre8e3a1cgs9ikPmhqjzdFSqE?usp=sharing)
-
 * [Versao com coresII](https://colab.research.google.com/drive/1_hiw_MjPfFuVj_IDFSJ_BE9PZufjku9d?usp=sharing)
 
-* [Versão com barras](https://colab.research.google.com/drive/1srdaHyYj_JCvkvhOExh9Fx4nYsqyXgny?usp=sharing)
 
 ## Aula 9 07/4/25  - Revisão 
 * [Exemplos de questoes de Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWR7OxKKXbG8oE-xUCxpw4)
