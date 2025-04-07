@@ -48,14 +48,32 @@
 * [Aula com as dicas para fazer o exercício 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kFiUbMsrqcF0BR_-L5Hp8S)
 * [exercicio para entregar em papel, escrito a mão](https://docs.google.com/document/d/1LkOcmb5JF6cJj34Zog1XTgs2I4KWLS1foS_CLlfQQIU/edit?usp=sharing) - Entregar até 7 de Abril no escaninho da secreatria do DPI.
 ## Aula 8 03/4/25 - Assembler PTX da GPU e escalonamento estático (assíncrona)
+* [playlist de vídeo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6keaqk5T7drV1ZGEgskxh4X)
+* [lista de exercício de gpu](https://docs.google.com/document/d/1JzC20YiTkD8YZ9OdaNK9XbN9_fSrqfMTHjQRjk7B0gY/edit?usp=sharing)
+### GPU e WARPS
+
+* [Escalonamento em GPU com Warps](https://colab.research.google.com/drive/19ovRA0Y7pDyYSfYCu2aZsRO28ZS25BDg?usp=sharing)
+
+* [Versão com tabulate](https://colab.research.google.com/drive/18vFeeMEBO3WEFMWbNYQe74-GkDisPn_W?usp=sharing)
+
+
+* [Versão com html](https://colab.research.google.com/drive/1fX8K21hhJmUPXzzq52dTpDeCij8Sn5ys?usp=sharing)
+
+* [Versão com Cores I](https://colab.research.google.com/drive/1VqdQLibyre8e3a1cgs9ikPmhqjzdFSqE?usp=sharing)
+
+* [Versao com coresII](https://colab.research.google.com/drive/1_hiw_MjPfFuVj_IDFSJ_BE9PZufjku9d?usp=sharing)
+
+* [Versão com barras](https://colab.research.google.com/drive/1srdaHyYj_JCvkvhOExh9Fx4nYsqyXgny?usp=sharing)
+
 ## Aula 9 07/4/25  - Revisão 
 * [Exemplos de questoes de Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWR7OxKKXbG8oE-xUCxpw4)
 * [Prova 2024](https://docs.google.com/document/d/1Q4jr7J6BSF0E9BpHFA8H5aLt1y2GEU8ImUqdaximUD4/edit?usp=sharing)
 * [Prova 2023](https://docs.google.com/document/d/1HKhF6WCDqGJV9DjXn4wobdmdpJ93QTWRy9bvmrsTdMk/edit?usp=sharing)
 
-* Prazo final para lista PTX e VLIW/GPU, devolver na aula.
+* Prazo final para lista VLIW/GPU, devolver na aula.
 ## Aula 10 10/4/25 - Revisão
 ## Aula 11 14/4/25 - Prova I (semana santa/tiradentes)
+* Prazo Final para lista de GPU
 ## Aula 12 24/4/25 - Introdução as Caches e seus tipos
 ## Aula 13 28/4/25 - Implementação Caches  (trabalho)
 ## Aula 14 5/5/25  - Implementação Caches e Politicas de Substituição  
