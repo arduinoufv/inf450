@@ -42,7 +42,7 @@
 
 ## Aula 6 27/3/25 - Predição de Desvios (síncrona)
 * [Simulador de Preditor Dinâmica para fazer a correção](https://colab.research.google.com/drive/19ffbZEbwlhMq95FpKd1S1TaN4IZcE-Yx?usp=sharing)
-* [2 exercícios para treino]()
+* [2 exercícios para treino - Ainda não atualizado]()
   
 ## Aula 7 31/3/25 - Superscalar, VLIW  (assíncrona)
 * [Aula com as dicas para fazer o exercício 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kFiUbMsrqcF0BR_-L5Hp8S)
@@ -50,6 +50,9 @@
 ## Aula 8 03/4/25 - Assembler PTX da GPU e escalonamento estático (assíncrona)
 ## Aula 9 07/4/25  - Revisão 
 * [Exemplos de questoes de Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWR7OxKKXbG8oE-xUCxpw4)
+* [Prova 2024](https://docs.google.com/document/d/1Q4jr7J6BSF0E9BpHFA8H5aLt1y2GEU8ImUqdaximUD4/edit?usp=sharing)
+* [Prova 2023](https://docs.google.com/document/d/1HKhF6WCDqGJV9DjXn4wobdmdpJ93QTWRy9bvmrsTdMk/edit?usp=sharing)
+
 * Prazo final para lista PTX e VLIW/GPU, devolver na aula.
 ## Aula 10 10/4/25 - Revisão
 ## Aula 11 14/4/25 - Prova I (semana santa/tiradentes)
