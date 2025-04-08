@@ -55,7 +55,7 @@
 
 
 ## Aula 9 07/4/25  - Revisão 
-* [Exemplos de questoes de Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWR7OxKKXbG8oE-xUCxpw4)
+* [Gravações dos vídeos da revisão com Exemplos de questoes de Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWR7OxKKXbG8oE-xUCxpw4)
 * [Prova 2024](https://docs.google.com/document/d/1Q4jr7J6BSF0E9BpHFA8H5aLt1y2GEU8ImUqdaximUD4/edit?usp=sharing)
 * [Prova 2023](https://docs.google.com/document/d/1HKhF6WCDqGJV9DjXn4wobdmdpJ93QTWRy9bvmrsTdMk/edit?usp=sharing)
 * [Resumo da Prova - anotações](https://docs.google.com/document/d/1NmfZrIL31t1U1210UR1GrP7WysAOxULVDxHoVG5CrmM/edit?usp=sharing)
