@@ -62,8 +62,9 @@
 
 * Prazo final para lista VLIW/GPU, devolver na aula.
 ## Aula 10 10/4/25 - Revisão
+* Vídeos estão na aula anterior.
 ## Aula 11 14/4/25 - Prova I (semana santa/tiradentes)
-* Prazo Final para lista de GPU
+* Prova no Auditorio II do PVB, lista de GPU será para prova 3. GPU não será cobrado na prova 1.
 ## Aula 12 24/4/25 - Introdução as Caches e seus tipos
 ## Aula 13 28/4/25 - Implementação Caches  (trabalho)
 ## Aula 14 5/5/25  - Implementação Caches e Politicas de Substituição  
