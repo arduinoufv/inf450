@@ -42,7 +42,7 @@
 
 ## Aula 6 27/3/25 - Predição de Desvios (síncrona) [gravação da aula](https://drive.google.com/file/d/1C0GhhnyfdHWuANuKWyHlDiyOFV1VpFe5/view?usp=sharing)
 * [Simulador de Preditor Dinâmica para fazer a correção](https://colab.research.google.com/drive/19ffbZEbwlhMq95FpKd1S1TaN4IZcE-Yx?usp=sharing)
-
+* [NOVO ! playlist de video separado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nuoeBKHtTPUWAR4tTiI1Fr)
   
 ## Aula 7 31/3/25 - Superscalar, VLIW  (assíncrona)
 * [Aula com as dicas para fazer o exercício 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kFiUbMsrqcF0BR_-L5Hp8S)
