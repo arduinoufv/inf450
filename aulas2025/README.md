@@ -65,9 +65,9 @@
 * Vídeos estão na aula anterior.
 ## Aula 11 14/4/25 - Prova I (semana santa/tiradentes)
 * Prova no Auditorio II do PVB, lista de GPU será para prova 3. GPU não será cobrado na prova 1.
-## Aula 12 24/4/25 - Introdução as Caches e seus tipos
+## Aula 12 24/4/25 - Introdução as Caches e seus tipos [play list da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mAsSf8X1e2bDfz2cxHAqwE)
 * [Colab com material teórico para Caches](https://colab.research.google.com/drive/1n2YcCXjPS0bZqhncxPiVg8nnOUv9A_4r?usp=sharing)
-## Aula 13 28/4/25 - Implementação Caches  (trabalho)
+## Aula 13 28/4/25 - Implementação de uma Cache em Verilog (trabalho)
 ## Aula 14 5/5/25  - Implementação Caches e Politicas de Substituição  
 ## Aula 15 8/5/25  - Tempo, Níveis, Compartilhamento
 ## Aula 16 12/5/25 - Memória Virtual e Paginação
