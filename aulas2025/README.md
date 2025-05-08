@@ -69,6 +69,8 @@
 * [Colab com material teórico para Caches](https://colab.research.google.com/drive/1n2YcCXjPS0bZqhncxPiVg8nnOUv9A_4r?usp=sharing)
 ## Aula 13 28/4/25 - Implementação de uma Cache em Verilog (trabalho)
 ## Aula 14 5/5/25  - Implementação Caches e Politicas de Substituição  
+* [video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mSIksEPqTVTw2aVHfsxr3q)
+* [mesi - protocolo de simulação de cache](https://www.scss.tcd.ie/jeremy.jones/VivioJS/caches/MESIHelp.htm)
 ## Aula 15 8/5/25  - Tempo, Níveis, Compartilhamento
 ## Aula 16 12/5/25 - Memória Virtual e Paginação
 ## Aula 17 15/5/25 - Paginação em 2 níveis ou mais
