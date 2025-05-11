@@ -3,7 +3,7 @@
 * 2 provas de 30 pontos e uma prova de 27 pontos (87 pts) - Prova I 14/4/25, Prova II 26/5/25, Prova III 3/7/25
 * Trabalhos (10 pontos - serão cobrados na prova - Trabalho em Grupo mas a arguição é individual)
     * Simulador Tomasulo em Python 3 pontos - 24/4/25 - [Especificação Video](https://www.youtube.com/watch?v=wXvhKRUkJq4&list=PLcvOyD_LMr6nZYSK4Dfr7b55qBRUgxJXV&index=7) e [Colab](https://colab.research.google.com/drive/1YHrcZgxybtBlIu6SW-BQZRux1MpRfN6T?usp=sharing). Enviar email para agendar a apresentação do Grupo.
-    * Simulador Cache 4 Way 5 pontos - 19/5/25 - [Explicações para fazer o trabalho - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
+    * Simulador Cache 4 Way 5 pontos - 30/5/25 - [Explicações para fazer o trabalho - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
     * Simulador Dataflow 2 pontos - 30/6/25
 * Lista : [Software Pipeline](https://docs.google.com/document/d/1AhvrvgKKYBrJtgPooiA9RNMaadFP4_JSf-UkPeNDDy0/edit?usp=sharing), [Superescalar/VLIW](https://docs.google.com/document/d/1akJ7_g7bifrVumRnE0-qTSy5bnroo33RFNoGtkFpQr4/edit?usp=sharing) e PTX (1 ponto cada) - Individual e escrita a mão.
 # Referências
@@ -68,13 +68,16 @@
 ## Aula 12 24/4/25 - Introdução as Caches e seus tipos [play list da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mAsSf8X1e2bDfz2cxHAqwE)
 * [Colab com material teórico para Caches](https://colab.research.google.com/drive/1n2YcCXjPS0bZqhncxPiVg8nnOUv9A_4r?usp=sharing)
 ## Aula 13 28/4/25 - Implementação de uma Cache em Verilog (trabalho)
-## Aula 14 5/5/25  - Implementação Caches e Politicas de Substituição  
+## Aula 14 5/5/25  - Continuação da Implementação Caches e Politicas de Substituição  
+* [Explicações para fazer o trabalho - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
+## Aula 15 8/5/25  - Tempo, Níveis, Compartilhamento
 * [video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mSIksEPqTVTw2aVHfsxr3q)
 * [mesi - protocolo de simulação de cache](https://www.scss.tcd.ie/jeremy.jones/VivioJS/caches/MESIHelp.htm)
-## Aula 15 8/5/25  - Tempo, Níveis, Compartilhamento
 ## Aula 16 12/5/25 - Memória Virtual e Paginação
 ## Aula 17 15/5/25 - Paginação em 2 níveis ou mais
+*[Colab][https://colab.research.google.com/drive/1yFMBKIOR94sudsBO0Z3nhZ4xExBITQnx?usp=sharing]
 ## Aula 18 19/5/25 - TLB e Revisão  (santa rita)
+*[Colab](https://colab.research.google.com/drive/1ohzBmtaEW1Rgx0zmhMlHg8bBYC2SzkD2?usp=sharing)
 ## Aula 19 26/5/25 - Prova II
 ## Aula 20 29/5/25 - Dataflow 
 ## Aula 21 2/6/25  - Maquina Vetorial
