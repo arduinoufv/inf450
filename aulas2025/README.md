@@ -74,10 +74,11 @@
 * [video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mSIksEPqTVTw2aVHfsxr3q)
 * [mesi - protocolo de simulação de cache](https://www.scss.tcd.ie/jeremy.jones/VivioJS/caches/MESIHelp.htm)
 ## Aula 16 12/5/25 - Memória Virtual e Paginação
+* [Playlist Introdução + Exercicio Paginacao 1 nivel, um exemplo de 2 niveis](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l1XmvLXJ7HeQM44wQYr-wV)
 ## Aula 17 15/5/25 - Paginação em 2 níveis ou mais
-*[Colab][https://colab.research.google.com/drive/1yFMBKIOR94sudsBO0Z3nhZ4xExBITQnx?usp=sharing]
-## Aula 18 19/5/25 - TLB e Revisão  (santa rita)
+*[Colab](https://colab.research.google.com/drive/1yFMBKIOR94sudsBO0Z3nhZ4xExBITQnx?usp=sharing)
 *[Colab](https://colab.research.google.com/drive/1ohzBmtaEW1Rgx0zmhMlHg8bBYC2SzkD2?usp=sharing)
+## Aula 18 19/5/25 - TLB e Revisão  (santa rita)
 ## Aula 19 26/5/25 - Prova II
 ## Aula 20 29/5/25 - Dataflow 
 ## Aula 21 2/6/25  - Maquina Vetorial
