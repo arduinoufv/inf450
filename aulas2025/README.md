@@ -79,6 +79,8 @@
 *[Colab](https://colab.research.google.com/drive/1yFMBKIOR94sudsBO0Z3nhZ4xExBITQnx?usp=sharing)
 *[Colab](https://colab.research.google.com/drive/1ohzBmtaEW1Rgx0zmhMlHg8bBYC2SzkD2?usp=sharing)
 ## Aula 18 19/5/25 - TLB e Revisão  (santa rita)
+* [prova 2024](https://docs.google.com/document/d/16YGtPHkZGC75hZjaCi7h12wSKg5GiUZPQTn6tj8bNSc/edit?usp=sharing)
+* [prova 2023](https://docs.google.com/document/d/1O81P4sPiwqNEIgymIdEAubdqdjn6q6pPMf10V146leQ/edit?usp=sharing)
 ## Aula 19 26/5/25 - Prova II
 ## Aula 20 29/5/25 - Dataflow 
 ## Aula 21 2/6/25  - Maquina Vetorial
