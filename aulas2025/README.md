@@ -82,7 +82,7 @@
 * [prova 2024](https://docs.google.com/document/d/16YGtPHkZGC75hZjaCi7h12wSKg5GiUZPQTn6tj8bNSc/edit?usp=sharing)
 * [prova 2023](https://docs.google.com/document/d/1O81P4sPiwqNEIgymIdEAubdqdjn6q6pPMf10V146leQ/edit?usp=sharing)
 ## Aula 19 26/5/25 - Prova II - Auditorio do PVB
-* [exercicios de memoria virtual](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kOq1Vp66q4rXiG8LOGr5An)
+* [exercicios de revisão para PROVA II](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kOq1Vp66q4rXiG8LOGr5An)
 ## Aula 20 29/5/25 - Dataflow 
 ## Aula 21 2/6/25  - Maquina Vetorial
 ## Aula 22 5/6/25  - Multiprocessadores e Extensões Vetoriais
