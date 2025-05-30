@@ -83,11 +83,11 @@
 * [prova 2023](https://docs.google.com/document/d/1O81P4sPiwqNEIgymIdEAubdqdjn6q6pPMf10V146leQ/edit?usp=sharing)
 ## Aula 19 26/5/25 - Prova II - Auditorio do PVB
 * [exercicios de revisão para PROVA II](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kOq1Vp66q4rXiG8LOGr5An)
-## Aula 20 29/5/25 - Dataflow 
-## Aula 21 2/6/25  - Maquina Vetorial
+## Aula 20 29/5/25 - [Introdução a GPU](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k2S59XvoMOr2UHICwbfAHb)
+## Aula 21 2/6/25  - Maquina Vetorial & Dataflow 
 ## Aula 22 5/6/25  - Multiprocessadores e Extensões Vetoriais
-## Aula 23 9/6/25  - Arquiteturas SIMD
-## Aula 24 12/6/25 - Arquiteturas Sistólicas
+## Aula 23 9/6/25  - Arquiteturas SIMD Array Processors e Arquiteturas Sistólicas
+## Aula 24 12/6/25 - Modelo Programação GPU
 ## Aula 25 16/6/25 - Arquitetura GPU memórias  (corpus)
 ## Aula 26 23/6/25 - Arquitetura GPU multiprocessadores
 ## Aula 27 26/6/25 - Arquitetura GPU PTX e Registradores 
