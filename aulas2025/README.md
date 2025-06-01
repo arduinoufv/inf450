@@ -85,6 +85,8 @@
 * [exercicios de revisão para PROVA II](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kOq1Vp66q4rXiG8LOGr5An)
 ## Aula 20 29/5/25 - [Introdução a GPU](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k2S59XvoMOr2UHICwbfAHb)
 ## Aula 21 2/6/25  - Maquina Vetorial & Dataflow 
+* [Colab de Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing)
+* [Colad de Arquiteturas Vetoriais](https://colab.research.google.com/drive/1DVloAhfVcDYnMeB97gHmARMFBJuf7rE6?usp=sharing)
 ## Aula 22 5/6/25  - Multiprocessadores e Extensões Vetoriais
 ## Aula 23 9/6/25  - Arquiteturas SIMD Array Processors e Arquiteturas Sistólicas
 ## Aula 24 12/6/25 - Modelo Programação GPU
