@@ -4,7 +4,7 @@
 * Trabalhos (10 pontos - serão cobrados na prova - Trabalho em Grupo mas a arguição é individual)
     * Simulador Tomasulo em Python 3 pontos - 24/4/25 - [Especificação Video](https://www.youtube.com/watch?v=wXvhKRUkJq4&list=PLcvOyD_LMr6nZYSK4Dfr7b55qBRUgxJXV&index=7) e [Colab](https://colab.research.google.com/drive/1YHrcZgxybtBlIu6SW-BQZRux1MpRfN6T?usp=sharing). Enviar email para agendar a apresentação do Grupo.
     * Simulador Cache 4 Way 5 pontos - 6/6/25 - [Colab base](https://colab.research.google.com/drive/11StANB9MMLfcuuqtwbZMe9MbUNz48NOs?usp=sharing) e [Explicações para fazer o trabalho - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
-    * Simulador Dataflow 2 pontos - 30/6/25
+    * Simulador Arquiteturas Paralelas 2 pontos - 30/6/25 [Trabalho 3](https://colab.research.google.com/drive/1P2lJGYkuZW_tU-M_D_S3gCTdhNSEBL6T?usp=sharing)
 * Lista : [Software Pipeline](https://docs.google.com/document/d/1AhvrvgKKYBrJtgPooiA9RNMaadFP4_JSf-UkPeNDDy0/edit?usp=sharing), [Superescalar/VLIW](https://docs.google.com/document/d/1akJ7_g7bifrVumRnE0-qTSy5bnroo33RFNoGtkFpQr4/edit?usp=sharing) e PTX (1 ponto cada) - Individual e escrita a mão.
 # Referências
 * [apostilas]()
