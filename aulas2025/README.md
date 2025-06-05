@@ -87,8 +87,11 @@
 ## Aula 21 2/6/25  - Maquina Vetorial & Dataflow 
 * [Colab de Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing)
 * [Colad de Arquiteturas Vetoriais](https://colab.research.google.com/drive/1DVloAhfVcDYnMeB97gHmARMFBJuf7rE6?usp=sharing)
-## Aula 22 5/6/25  - Multiprocessadores e Extensões Vetoriais
-## Aula 23 9/6/25  - Arquiteturas SIMD Array Processors e Arquiteturas Sistólicas
+## Aula 22 5/6/25  - Multiprocessadores, Extensões Vetoriais e  Arquiteturas Sistólicas
+* [Colab com vários sistólicos: filtro, Matriz 2D e Knn](https://colab.research.google.com/drive/1kJiYnlqIaQryCEpl48o0Eno78bMp_RwC?usp=sharing)
+* [Array Processor, Vetorial e Sistólicos](https://colab.research.google.com/drive/1YTPxp2t5KBBlTtdq6ThdgUnS4-u2a2xc?usp=sharing)
+* [Multiprocessadores](https://colab.research.google.com/drive/1P2lJGYkuZW_tU-M_D_S3gCTdhNSEBL6T?usp=sharing)
+## Aula 23 9/6/25  - Arquiteturas SIMD Array Processors
 ## Aula 24 12/6/25 - Modelo Programação GPU
 ## Aula 25 16/6/25 - Arquitetura GPU memórias  (corpus)
 ## Aula 26 23/6/25 - Arquitetura GPU multiprocessadores
