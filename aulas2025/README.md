@@ -92,7 +92,7 @@
 * [Array Processor, Vetorial e Sistólicos](https://colab.research.google.com/drive/1YTPxp2t5KBBlTtdq6ThdgUnS4-u2a2xc?usp=sharing)
 * [Multiprocessadores](https://colab.research.google.com/drive/1aXdpEg4TCGCgQJ4mliXYxrYSLS1fqWdl?usp=sharing)
 ## Aula 23 9/6/25  - Arquiteturas SIMD Array Processors
-* [Colab de Array Processors]()
+* [Colab de Array Processors](https://colab.research.google.com/drive/1_2OoAaCe_do0135Q3nDr7wCeBu6go_eQ?usp=sharing)
 ## Aula 24 12/6/25 - Modelo Programação GPU
 ## Aula 25 16/6/25 - Arquitetura GPU memórias  (corpus)
 ## Aula 26 23/6/25 - Arquitetura GPU multiprocessadores
