@@ -90,7 +90,7 @@
 ## Aula 22 5/6/25  - Multiprocessadores, Extensões Vetoriais e  Arquiteturas Sistólicas
 * [Colab com vários sistólicos: filtro, Matriz 2D e Knn](https://colab.research.google.com/drive/1kJiYnlqIaQryCEpl48o0Eno78bMp_RwC?usp=sharing)
 * [Array Processor, Vetorial e Sistólicos](https://colab.research.google.com/drive/1YTPxp2t5KBBlTtdq6ThdgUnS4-u2a2xc?usp=sharing)
-* [Multiprocessadores](https://colab.research.google.com/drive/1P2lJGYkuZW_tU-M_D_S3gCTdhNSEBL6T?usp=sharing)
+* [Multiprocessadores](https://colab.research.google.com/drive/1aXdpEg4TCGCgQJ4mliXYxrYSLS1fqWdl?usp=sharing)
 ## Aula 23 9/6/25  - Arquiteturas SIMD Array Processors
 ## Aula 24 12/6/25 - Modelo Programação GPU
 ## Aula 25 16/6/25 - Arquitetura GPU memórias  (corpus)
