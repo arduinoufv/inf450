@@ -97,6 +97,7 @@
 * [Playlist Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k-jRSG7Mqzdy7lMTiwPeev)
 * [Colab Demo](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
 ## Aula 25 16/6/25 - Arquitetura GPU memórias  (corpus)
+* [Playlist video Memorias](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ku0YPpJJMWQjKMYlN814eh)
 ## Aula 26 23/6/25 - Arquitetura GPU multiprocessadores
 ## Aula 27 26/6/25 - Arquitetura GPU PTX e Registradores 
 ## Aula 28 30/6/25 - Revisão 
