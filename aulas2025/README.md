@@ -101,6 +101,9 @@
 ## Aula 26 23/6/25 - Arquitetura GPU multiprocessadores
 ## Aula 27 26/6/25 - Arquitetura GPU PTX e Registradores 
 ## Aula 28 30/6/25 - Revisão 
+* [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6khQhwvx9rvlkCmGxOA5jho)
+* [prova 2024](https://docs.google.com/document/d/1FXchJlMIZwI7P9RFEMHK-MPH89XY3bGjx8-HnKMLJss/edit?usp=drive_link)
+* [prova 2023](https://docs.google.com/document/d/1rCpnwK2b_OJ0UvyDxRptrsamWxd2veiWTQL2g1zYycI/edit?usp=drive_link)
 ## Aula 29 3/7/25   Prova III
 
 
