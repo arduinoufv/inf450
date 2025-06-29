@@ -83,16 +83,19 @@
 * [prova 2023](https://docs.google.com/document/d/1O81P4sPiwqNEIgymIdEAubdqdjn6q6pPMf10V146leQ/edit?usp=sharing)
 ## Aula 19 26/5/25 - Prova II - Auditorio do PVB
 * [exercicios de revisão para PROVA II](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kOq1Vp66q4rXiG8LOGr5An)
-## Aula 20 29/5/25 - [Introdução a GPU](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k2S59XvoMOr2UHICwbfAHb)
+## Aula 20 29/5/25 - [Introdução a GPU clique aqui Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k2S59XvoMOr2UHICwbfAHb)
 ## Aula 21 2/6/25  - Maquina Vetorial & Dataflow 
 * [Colab de Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing)
 * [Colad de Arquiteturas Vetoriais](https://colab.research.google.com/drive/1DVloAhfVcDYnMeB97gHmARMFBJuf7rE6?usp=sharing)
+* [video aula dataflow](https://www.youtube.com/playlist?list=PLcvOyD_LMr6liSMQrkBR16PjQndx2_pTy)
 ## Aula 22 5/6/25  - Multiprocessadores, Extensões Vetoriais e  Arquiteturas Sistólicas
 * [Colab com vários sistólicos: filtro, Matriz 2D e Knn](https://colab.research.google.com/drive/1kJiYnlqIaQryCEpl48o0Eno78bMp_RwC?usp=sharing)
 * [Array Processor, Vetorial e Sistólicos](https://colab.research.google.com/drive/1YTPxp2t5KBBlTtdq6ThdgUnS4-u2a2xc?usp=sharing)
 * [Multiprocessadores](https://colab.research.google.com/drive/1aXdpEg4TCGCgQJ4mliXYxrYSLS1fqWdl?usp=sharing)
+* [Video Processadores Vetoriais, Multiprocessadores e Sistólicos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n6WeVWUPpvFrzDfQKomwDk)
 ## Aula 23 9/6/25  - Arquiteturas SIMD Array Processors
 * [Colab de Array Processors](https://colab.research.google.com/drive/1_2OoAaCe_do0135Q3nDr7wCeBu6go_eQ?usp=sharing)
+* [Video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kH-gyyG0Zx9d7mnmEb-ho5)
 ## Aula 24 12/6/25 - Modelo Programação GPU
 * [Playlist Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k-jRSG7Mqzdy7lMTiwPeev)
 * [Colab Demo](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
