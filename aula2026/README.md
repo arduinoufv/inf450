@@ -14,6 +14,7 @@
 * [slides Multiplas unidades, Unrolling, Soft Pipelining e Escalonamentos](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing)
 * Exemplos da [aula com colab](https://colab.research.google.com/drive/1zhO5TzSEAy0P_EKT5oNtp_BR0lg-ZZhO?usp=sharing)
 * [Exercicio 1](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing)
+* [Questoes geradas pelo NotebookLM para treino](https://colab.research.google.com/drive/1LDqkmE4kIHS7_sC4vUCdPofak-MNiCFp?usp=sharing) e [notebookLM](https://notebooklm.google.com/notebook/57379f56-087d-4964-b1a6-cdd617474772)
 * [video da aula 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lE-dC0VJ2V-TjCt3Bea1Tl)
 
 ## Aula 2 12/3/26 - Loop Unroolling e Escalonamento Estático
