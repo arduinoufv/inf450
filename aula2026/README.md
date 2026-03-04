@@ -1,3 +1,4 @@
+# Plano e Objetivos [clique aqui](https://github.com/arduinoufv/inf450/blob/master/aula2026/plano.md)
 # Avaliação
  
 * 2 provas de 32 pontos e uma prova de 28 pontos (92 pts) - Prova I 13/4/26, Prova II 25/5/26, Prova III 29/6/26
