@@ -3,7 +3,8 @@
  
 * 2 provas de 32 pontos e uma prova de 28 pontos (92 pts) - Prova I 13/4/26, Prova II 25/5/26, Prova III 29/6/26
 * Trabalho (8 pontos - serão cobrados na prova - Trabalho em Grupo mas a arguição é individual)
-    * Simulador Cache 4 Way 8 pontos - 6/6/25 - [Colab base](https://colab.research.google.com/drive/11StANB9MMLfcuuqtwbZMe9MbUNz48NOs?usp=sharing) e [Explicações para fazer o trabalho - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
+    * Simulador Cache 4 Way 4 pontos - 6/6/25 - [Colab base](https://colab.research.google.com/drive/11StANB9MMLfcuuqtwbZMe9MbUNz48NOs?usp=sharing) e [Explicações para fazer o trabalho - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
+    * Fazer um supersimulador Tomasulo  validando e fazendo MERGE das boas características dos simuladores da Turma de 2025- 4 pontos entregar código até 13/4/26 
 
 # Referências
 * [apostilas]()
@@ -21,22 +22,34 @@
 ## Aula 2 12/3/26 - Loop Unroolling e Escalonamento Estático
 * [exemplos: unroll](https://docs.google.com/document/d/1VbJ5KoNpPBL990Hxp9_J4r0wJ1ThuCHeWmGWwinRLhQ/edit?usp=sharing)
 * [colab com "emulação" em python](https://colab.research.google.com/drive/1VXYg4UgnspfATiabb-CAkvkoII4IO0Nn?usp=sharing)
+* [Colab com questões de treino geradas pelo Notebooklm](https://colab.research.google.com/drive/1nlF1hKGOwYht63jbaEOlGuSl3Si6O2zd?usp=sharing)
 * [video da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m9kKfCRkj-9wzfwVZfUL8G) 
 
-## Aula 3 17/3/25 - Software Pipelining (assíncrona) [Clique Aqui para Assistir a aula e fazer os dois exercicios, aqui tem os vidoes da aula presencial com as dicas para a lista](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9xqFEfsVTfc1lOYyww07u)
+## Aula 3 16/3/26 - Software Pipelining 
 * Slides Software Pipelining [Weac 2023](https://docs.google.com/presentation/d/176eY8fTNS0xd_VzsCKBBNn9xbN_dEvwVTR5h3ibtDns/edit?usp=sharing)
 * Artigo [weac 2023 - Ensino de Software Pipelining e Escalonamento em GPUs com Python](http://www2.sbc.org.br/ceacpad/ijcae/v12_n2_dec_2023/IJCAE_v12_n2_dez_2023_paper_3_vf.pdf)
 * [Colab indice do Artigo Weac 2023](https://colab.research.google.com/drive/1zpyc25cTdNnPoqY07MVJd6Cpcpm7_L9e?usp=sharing)
 * [Software Pipelining com 2 exemplos](https://colab.research.google.com/drive/1oeHtya06AMZBuPofLHvckZfkf8Q1DMX1?usp=sharing) 
 * [Exercicios para treino](https://docs.google.com/document/d/1iMePpBllLPABsJtC3P1knk6QhF9Mo2XuHR_l24cL4lw/edit?usp=sharing)
 * [Exemplos resolvidos](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing)
-* Lista : [Software Pipeline](https://docs.google.com/document/d/1AhvrvgKKYBrJtgPooiA9RNMaadFP4_JSf-UkPeNDDy0/edit?usp=sharing), [Superescalar/VLIW](https://docs.google.com/document/d/1akJ7_g7bifrVumRnE0-qTSy5bnroo33RFNoGtkFpQr4/edit?usp=sharing) e PTX (1 ponto cada) - Individual e escrita a mão.
-
-## Aula 4 20/3/25 - Tomasulo (síncrona) [gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nZYSK4Dfr7b55qBRUgxJXV)
+* Lista de 2025 para Treino: [Software Pipeline](https://docs.google.com/document/d/1AhvrvgKKYBrJtgPooiA9RNMaadFP4_JSf-UkPeNDDy0/edit?usp=sharing), [Superescalar/VLIW](https://docs.google.com/document/d/1akJ7_g7bifrVumRnE0-qTSy5bnroo33RFNoGtkFpQr4/edit?usp=sharing) 
+* [Clique Aqui para Assistir a aula de 2025 e fazer os dois exercicios, aqui tem os vidoes da aula presencial com as dicas para a lista](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9xqFEfsVTfc1lOYyww07u)
+* [Notebooklm com questoes de treino, mas várias precisa de informações dos grafos e códigos](https://colab.research.google.com/drive/1TdceiE0MO957dnsCjCzOK9dlkjiLooyd?usp=sharing)
+## Aula 4 19/3/26 - Tomasulo 
 *  Escalonamento dinamico  ---- [simulador 1 com 10 exemplos](https://arthurmteodoro.github.io/tomasulo-simulator/index) ----- [simulador 2](https://naheel.xyz/tomasulo-sim/)  
 * Folha de exercicios da [aula revisão escalonamento dinamico e multiplas unidades](https://docs.google.com/document/d/1S4xz6zUmKN1bZ77NH3JbNzx_O8Y4sMX9dPjFn9ZOfwY/edit?usp=sharing) mais outros [exercicios para treino da aula 20 marco](https://docs.google.com/document/d/1XX8jwdupN82-9vPxbYTiQcUnzMKQrkeWdalP_eUpi6A/edit?usp=sharing) mais sugestões de [exercicio para treino](https://docs.google.com/document/d/1W19ofIvCMIcWTam78DMwOXRO555nKc80cljbKpRJyCk/edit?usp=sharing)
 * [exemplos com resposta para as tecncias anteriores, pode usar o mesmo exemplo no trabalho do Tomasulo, resolvendo com escalonamento dinamico](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing)
 * [consultar o livro Quantitative Approach para teoria do Tomasulo](https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
+* [gravação da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nZYSK4Dfr7b55qBRUgxJXV)
+#### Simuladores de Tomasulo da Turma de 2025
+Vários exemplos de simuladores para Tomasulo com interface desenvolvidos com trabalho prático de INF450 Arq. de Computadores pelo estudantes do curso de Ciência da Computação da UFV, primeiro semestre de 2025.
+1. [Quadro de Execução passo a passo com Loop, Registradores](https://colab.research.google.com/drive/1vYh2JpE1FPGyS76-1trUU5uqGsaZQx8C?usp=sharing)
+2. [Quadro de Execução, passo a passo, Estações](https://colab.research.google.com/drive/1OEg4LWgg9FL6ky2MWG4w62-xmN4QE8Kq?usp=sharing)
+3.  [Quadro de execução, edição, estações e registradores com HTML](https://colab.research.google.com/drive/1uQnD_DU6F28edkL5Hh2FXYzCh7SgzEdX?usp=sharing)
+4.  [Saída Textual](https://colab.research.google.com/drive/1lxwx407203eZTiGOY3bjjhQO9rHQAShc?usp=sharing) : projeto do simulador modular, monitoramento dos estágios do Pipeline, das estações de reserva e dos registradores.
+5.  [Quadro de Execução, Janela e Edição de Código, Exemplos de Códigos, Visualização dos Registradores](https://colab.research.google.com/drive/1_kCZCNS7wxNJnbgIpnQWz4IG4gIai3Js?usp=sharing)
+
+========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
 
 ## Aula 5 24/3/25 - Predição de Desvios (síncrona)
 * [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n5ck1Wte2asogGWCSok3gP)
