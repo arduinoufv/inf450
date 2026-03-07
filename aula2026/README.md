@@ -34,7 +34,7 @@
 * [Exemplos resolvidos](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing)
 * Lista de 2025 para Treino: [Software Pipeline](https://docs.google.com/document/d/1AhvrvgKKYBrJtgPooiA9RNMaadFP4_JSf-UkPeNDDy0/edit?usp=sharing), [Superescalar/VLIW](https://docs.google.com/document/d/1akJ7_g7bifrVumRnE0-qTSy5bnroo33RFNoGtkFpQr4/edit?usp=sharing) 
 * [Clique Aqui para Assistir a aula de 2025 e fazer os dois exercicios, aqui tem os vidoes da aula presencial com as dicas para a lista](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9xqFEfsVTfc1lOYyww07u)
-* [Notebooklm com questoes de treino, mas várias precisa de informações dos grafos e códigos](https://colab.research.google.com/drive/1TdceiE0MO957dnsCjCzOK9dlkjiLooyd?usp=sharing)
+* [notebooklm com slides](https://notebooklm.google.com/notebook/a21bdd51-ca6d-422f-95c6-ca092a7d0666) e [Q&A Notebooklm com questoes de treino, mas várias precisa de informações dos grafos e códigos](https://colab.research.google.com/drive/1TdceiE0MO957dnsCjCzOK9dlkjiLooyd?usp=sharing)
 ## Aula 4 19/3/26 - Tomasulo 
 *  Escalonamento dinamico  ---- [simulador 1 com 10 exemplos](https://arthurmteodoro.github.io/tomasulo-simulator/index) ----- [simulador 2](https://naheel.xyz/tomasulo-sim/)  
 * Folha de exercicios da [aula revisão escalonamento dinamico e multiplas unidades](https://docs.google.com/document/d/1S4xz6zUmKN1bZ77NH3JbNzx_O8Y4sMX9dPjFn9ZOfwY/edit?usp=sharing) mais outros [exercicios para treino da aula 20 marco](https://docs.google.com/document/d/1XX8jwdupN82-9vPxbYTiQcUnzMKQrkeWdalP_eUpi6A/edit?usp=sharing) mais sugestões de [exercicio para treino](https://docs.google.com/document/d/1W19ofIvCMIcWTam78DMwOXRO555nKc80cljbKpRJyCk/edit?usp=sharing)
