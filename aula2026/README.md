@@ -49,9 +49,9 @@ Vários exemplos de simuladores para Tomasulo com interface desenvolvidos com tr
 4.  [Saída Textual](https://colab.research.google.com/drive/1lxwx407203eZTiGOY3bjjhQO9rHQAShc?usp=sharing) : projeto do simulador modular, monitoramento dos estágios do Pipeline, das estações de reserva e dos registradores.
 5.  [Quadro de Execução, Janela e Edição de Código, Exemplos de Códigos, Visualização dos Registradores](https://colab.research.google.com/drive/1_kCZCNS7wxNJnbgIpnQWz4IG4gIai3Js?usp=sharing)
 
-Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao | config | HTML | simulador | Reg | Loop | erro
---|--                 |--      |--        |--   | --       | --       |--       |--      |--    |--     |--|--|--
-1 | sim, texto        | pequeno | sim     |     |          |          | dicionario | sim |      | sim | sim | 2 | grava reg sobreescrita ?
+Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao | config | HTML | simulador | Reg | Loop | erro | parser
+--|--                 |--      |--        |--   | --       | --       |--       |--      |--    |--     |--|--|--|--
+1 | sim, texto        | pequeno | sim     |     |          |          | dicionario | sim |      | sim | sim | 2 | conferir  sobreescrita ? valor do Reg e Unidade WR, quando tiver| conferir ?
 2 | 
 
 ========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
