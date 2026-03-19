@@ -51,8 +51,8 @@ Vários exemplos de simuladores para Tomasulo com interface desenvolvidos com tr
 
 Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao | config | HTML | simulador | Reg | Loop | erro | parser
 --|--                 |--      |--        |--   | --       | --       |--       |--      |--    |--     |--|--|--|--
-1 | sim, texto        | pequeno | sim     |     |          |          | dicionario | sim |      | sim | sim | 2 | conferir  sobreescrita ? valor do Reg e Unidade WR, quando tiver| conferir ?
-2 | 
+1 | sim, texto        | pequeno | sim     |     |          |          | dicionario | sim |      | sim | sim | 2 | conferir  sobreescrita ? valor do Reg e Unidade WR, quando tiver, erro ciclo 16 exemplo 1,teste problema sobreescrita consecutiva | conferir ?
+2 | sim, mas tem problemas para preencher | sim | com menu, ruim para inserir novos | não |  não | não | sim | sim, simples | não | sim? | sim | um abaixo do outro | ? | restrito  
 
 ========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
 
