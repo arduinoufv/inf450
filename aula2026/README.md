@@ -51,7 +51,8 @@ Vários exemplos de simuladores para Tomasulo com interface desenvolvidos com tr
 
 Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao | config | HTML | simulador | Reg | Loop 
 --|--                 |--      |--        |--   | --       | --       |--       |--      |--    |--     |--|--
-
+1 | sim, texto        | pequeno | sim     |     |          |          | dicionario | sim |      | sim | sim | 2
+2 |
 
 ========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
 
