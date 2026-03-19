@@ -49,6 +49,10 @@ Vários exemplos de simuladores para Tomasulo com interface desenvolvidos com tr
 4.  [Saída Textual](https://colab.research.google.com/drive/1lxwx407203eZTiGOY3bjjhQO9rHQAShc?usp=sharing) : projeto do simulador modular, monitoramento dos estágios do Pipeline, das estações de reserva e dos registradores.
 5.  [Quadro de Execução, Janela e Edição de Código, Exemplos de Códigos, Visualização dos Registradores](https://colab.research.google.com/drive/1_kCZCNS7wxNJnbgIpnQWz4IG4gIai3Js?usp=sharing)
 
+Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao | config | HTML | simulador | Reg | Loop 
+--|--                 |--      |--        |--   | --       | --       |--       |--      |--    |--     |--|--
+
+
 ========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
 
 ## Aula 5 24/3/25 - Predição de Desvios (síncrona)
