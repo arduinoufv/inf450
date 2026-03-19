@@ -53,6 +53,8 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 --|--                 |--      |--        |--   | --       | --       |--       |--      |--    |--     |--|--|--|--
 1 | sim, texto        | pequeno | sim     |     |          |          | dicionario | sim |      | sim | sim | 2 | conferir  sobreescrita ? valor do Reg e Unidade WR, quando tiver, erro ciclo 16 exemplo 1,teste problema sobreescrita consecutiva | conferir ?
 2 | sim, mas tem problemas para preencher | sim | com menu, ruim para inserir novos | não |  não | não | sim | sim, simples | não | sim? | sim | um abaixo do outro | ? | restrito  
+3 | sim, sem loop, pre-preenche | sim, pequeno | não | não | não | parcial, valores | sim | sim | sim | so valor, não mostra unidade | não | sobre escrita, verificar outros | restrito, não tem loop, maiuscula Ld miniusculo addf 
+4 | 
 
 ========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
 
