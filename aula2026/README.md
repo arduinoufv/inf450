@@ -32,8 +32,8 @@
 * [Software Pipelining com 2 exemplos](https://colab.research.google.com/drive/1oeHtya06AMZBuPofLHvckZfkf8Q1DMX1?usp=sharing) 
 * [Exercicios para treino](https://docs.google.com/document/d/1iMePpBllLPABsJtC3P1knk6QhF9Mo2XuHR_l24cL4lw/edit?usp=sharing)
 * [Exemplos resolvidos](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing)
-* [Aula com as dicas para fazer o exercício 2 de VLIW/Superscalar](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kFiUbMsrqcF0BR_-L5Hp8S)
-* [exercicio para entregar em papel](https://docs.google.com/document/d/1LkOcmb5JF6cJj34Zog1XTgs2I4KWLS1foS_CLlfQQIU/edit?usp=sharing) 
+* [Aula com as dicas para fazer o exercícios de software Pipelining, vários exemplos passo a passo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kFiUbMsrqcF0BR_-L5Hp8S)
+* [exercicio com VLIW e Superscalar](https://docs.google.com/document/d/1LkOcmb5JF6cJj34Zog1XTgs2I4KWLS1foS_CLlfQQIU/edit?usp=sharing) 
 * Lista de 2025 para Treino: [Software Pipeline](https://docs.google.com/document/d/1AhvrvgKKYBrJtgPooiA9RNMaadFP4_JSf-UkPeNDDy0/edit?usp=sharing), [Superescalar/VLIW](https://docs.google.com/document/d/1akJ7_g7bifrVumRnE0-qTSy5bnroo33RFNoGtkFpQr4/edit?usp=sharing) 
 * [Clique Aqui para Assistir a aula de 2025 e fazer os dois exercicios, aqui tem os vidoes da aula presencial com as dicas para a lista](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9xqFEfsVTfc1lOYyww07u)
 * [notebooklm com slides](https://notebooklm.google.com/notebook/a21bdd51-ca6d-422f-95c6-ca092a7d0666) e [Q&A Notebooklm com questoes de treino, mas várias precisa de informações dos grafos e códigos](https://colab.research.google.com/drive/1TdceiE0MO957dnsCjCzOK9dlkjiLooyd?usp=sharing)
@@ -60,37 +60,38 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 
 
 
-## Aula 5 23/3/25 - Predição de Desvios
+## Aula 5 23/3/26 - Predição de Desvios
 * [Colab de Predição de Desvios](https://colab.research.google.com/drive/1H2an9LBEouzM9V81U9PHCeX1GZwTItLU?usp=sharing)
 * [playlist video das aulas de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n5ck1Wte2asogGWCSok3gP)
 
-## Aula 6 26/3/25 - Predição de Desvios  
+## Aula 6 26/3/26 - Predição de Desvios  
 * [Simulador de Preditor Dinâmica para fazer a correção](https://colab.research.google.com/drive/19ffbZEbwlhMq95FpKd1S1TaN4IZcE-Yx?usp=sharing)
 * [NOVO ! playlist de video separado da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nuoeBKHtTPUWAR4tTiI1Fr)
 * [gravação da aula de 2025](https://drive.google.com/file/d/1C0GhhnyfdHWuANuKWyHlDiyOFV1VpFe5/view?usp=sharing)
 
-========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
-  
-## Aula 7 31/3/25 - Superscalar, VLIW  (assíncrona)
 
-## Aula 8 03/4/25 - Assembler PTX da GPU e escalonamento estático (assíncrona) - Não é matéria da prova 1 (só prova 3)
-* [playlist de vídeo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6keaqk5T7drV1ZGEgskxh4X)
+## Aula 7 30/3/26  Assembler PTX da GPU e escalonamento estático
+
 * [lista de exercício de gpu](https://docs.google.com/document/d/1JzC20YiTkD8YZ9OdaNK9XbN9_fSrqfMTHjQRjk7B0gY/edit?usp=sharing)
 * [Versão com html](https://colab.research.google.com/drive/1fX8K21hhJmUPXzzq52dTpDeCij8Sn5ys?usp=sharing)
 * [Versao com coresII](https://colab.research.google.com/drive/1_hiw_MjPfFuVj_IDFSJ_BE9PZufjku9d?usp=sharing)
+* [playlist de vídeo da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6keaqk5T7drV1ZGEgskxh4X)
 
+## Aula 9 06/4/26  Assembler PTX da GPU e escalonamento estático
 
-## Aula 9 07/4/25  - Revisão 
+## Aula 10 9/4/26 - Revisão
+* [Solução de questões de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mqPhkT_NVEzZje3EQe87Qz)
 * [Gravações dos vídeos da revisão com Exemplos de questoes de Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWR7OxKKXbG8oE-xUCxpw4)
 * [Prova 2024](https://docs.google.com/document/d/1Q4jr7J6BSF0E9BpHFA8H5aLt1y2GEU8ImUqdaximUD4/edit?usp=sharing)
 * [Prova 2023](https://docs.google.com/document/d/1HKhF6WCDqGJV9DjXn4wobdmdpJ93QTWRy9bvmrsTdMk/edit?usp=sharing)
 * [Resumo da Prova - anotações](https://docs.google.com/document/d/1NmfZrIL31t1U1210UR1GrP7WysAOxULVDxHoVG5CrmM/edit?usp=sharing)
 
-* Prazo final para lista VLIW/GPU, devolver na aula.
-## Aula 10 10/4/25 - Revisão
-* Vídeos estão na aula anterior.
-## Aula 11 14/4/25 - Prova I (semana santa/tiradentes) [Solução de questões de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mqPhkT_NVEzZje3EQe87Qz)
-* Prova no Auditorio II do PVB, lista de GPU será para prova 3. GPU não será cobrado na prova 1.
+## Aula 11 13/4/26 - Prova I 
+
+
+========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
+  
+
 ## Aula 12 24/4/25 - Introdução as Caches e seus tipos [play list da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mAsSf8X1e2bDfz2cxHAqwE)
 * [Colab com material teórico para Caches](https://colab.research.google.com/drive/1n2YcCXjPS0bZqhncxPiVg8nnOUv9A_4r?usp=sharing)
 ## Aula 13 28/4/25 - Implementação de uma Cache em Verilog (trabalho)
