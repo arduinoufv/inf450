@@ -4,7 +4,7 @@
 * 2 provas de 32 pontos e uma prova de 28 pontos (92 pts) - Prova I 13/4/26, Prova II 25/5/26, Prova III 29/6/26
 * Trabalho (8 pontos - serão cobrados na prova - Trabalho em Grupo mas a arguição é individual)
     * Simulador Cache 4 Way 4 pontos - 6/6/25 - [Colab base](https://colab.research.google.com/drive/11StANB9MMLfcuuqtwbZMe9MbUNz48NOs?usp=sharing) e [Explicações para fazer o trabalho - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
-    * Fazer um supersimulador Tomasulo  validando e fazendo MERGE das boas características dos simuladores da Turma de 2025- 4 pontos entregar código até 13/4/26 
+    * Fazer um supersimulador Tomasulo  validando e fazendo MERGE das boas características dos simuladores da Turma de 2025- 4 pontos entregar código até 13/4/26 [video do trabalho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mpTr9edcCAlEHjhrM0GkyH) 
 
 # Referências
 * [apostilas]()
@@ -86,7 +86,7 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 * Prazo final para lista VLIW/GPU, devolver na aula.
 ## Aula 10 10/4/25 - Revisão
 * Vídeos estão na aula anterior.
-## Aula 11 14/4/25 - Prova I (semana santa/tiradentes)
+## Aula 11 14/4/25 - Prova I (semana santa/tiradentes) [Solução de questões de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mqPhkT_NVEzZje3EQe87Qz)
 * Prova no Auditorio II do PVB, lista de GPU será para prova 3. GPU não será cobrado na prova 1.
 ## Aula 12 24/4/25 - Introdução as Caches e seus tipos [play list da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mAsSf8X1e2bDfz2cxHAqwE)
 * [Colab com material teórico para Caches](https://colab.research.google.com/drive/1n2YcCXjPS0bZqhncxPiVg8nnOUv9A_4r?usp=sharing)
