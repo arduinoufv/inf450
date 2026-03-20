@@ -25,13 +25,15 @@
 * [Colab com questões de treino geradas pelo Notebooklm](https://colab.research.google.com/drive/1nlF1hKGOwYht63jbaEOlGuSl3Si6O2zd?usp=sharing)
 * [video da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m9kKfCRkj-9wzfwVZfUL8G) 
 
-## Aula 3 16/3/26 - Software Pipelining 
+## Aula 3 16/3/26 - Software Pipelining , Superscalar e VLIW
 * Slides Software Pipelining [Weac 2023](https://docs.google.com/presentation/d/176eY8fTNS0xd_VzsCKBBNn9xbN_dEvwVTR5h3ibtDns/edit?usp=sharing)
 * Artigo [weac 2023 - Ensino de Software Pipelining e Escalonamento em GPUs com Python](http://www2.sbc.org.br/ceacpad/ijcae/v12_n2_dec_2023/IJCAE_v12_n2_dez_2023_paper_3_vf.pdf)
 * [Colab indice do Artigo Weac 2023](https://colab.research.google.com/drive/1zpyc25cTdNnPoqY07MVJd6Cpcpm7_L9e?usp=sharing)
 * [Software Pipelining com 2 exemplos](https://colab.research.google.com/drive/1oeHtya06AMZBuPofLHvckZfkf8Q1DMX1?usp=sharing) 
 * [Exercicios para treino](https://docs.google.com/document/d/1iMePpBllLPABsJtC3P1knk6QhF9Mo2XuHR_l24cL4lw/edit?usp=sharing)
 * [Exemplos resolvidos](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing)
+* [Aula com as dicas para fazer o exercício 2 de VLIW/Superscalar](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kFiUbMsrqcF0BR_-L5Hp8S)
+* [exercicio para entregar em papel](https://docs.google.com/document/d/1LkOcmb5JF6cJj34Zog1XTgs2I4KWLS1foS_CLlfQQIU/edit?usp=sharing) 
 * Lista de 2025 para Treino: [Software Pipeline](https://docs.google.com/document/d/1AhvrvgKKYBrJtgPooiA9RNMaadFP4_JSf-UkPeNDDy0/edit?usp=sharing), [Superescalar/VLIW](https://docs.google.com/document/d/1akJ7_g7bifrVumRnE0-qTSy5bnroo33RFNoGtkFpQr4/edit?usp=sharing) 
 * [Clique Aqui para Assistir a aula de 2025 e fazer os dois exercicios, aqui tem os vidoes da aula presencial com as dicas para a lista](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9xqFEfsVTfc1lOYyww07u)
 * [notebooklm com slides](https://notebooklm.google.com/notebook/a21bdd51-ca6d-422f-95c6-ca092a7d0666) e [Q&A Notebooklm com questoes de treino, mas várias precisa de informações dos grafos e códigos](https://colab.research.google.com/drive/1TdceiE0MO957dnsCjCzOK9dlkjiLooyd?usp=sharing)
@@ -56,20 +58,21 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 3 | sim, sem loop, pre-preenche | sim, pequeno | não | não | não | parcial, valores | sim | sim | sim | so valor, não mostra unidade | não | sobre escrita, verificar outros | restrito, não tem loop, maiuscula Ld miniusculo addf 
 4 | 
 
-========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
 
-## Aula 5 24/3/25 - Predição de Desvios (síncrona)
-* [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n5ck1Wte2asogGWCSok3gP)
-* Entregar a lista de exercícios de Software Pipeline (1 ponto)
+
+## Aula 5 23/3/25 - Predição de Desvios
 * [Colab de Predição de Desvios](https://colab.research.google.com/drive/1H2an9LBEouzM9V81U9PHCeX1GZwTItLU?usp=sharing)
+* [playlist video das aulas de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n5ck1Wte2asogGWCSok3gP)
 
-## Aula 6 27/3/25 - Predição de Desvios (síncrona) [gravação da aula](https://drive.google.com/file/d/1C0GhhnyfdHWuANuKWyHlDiyOFV1VpFe5/view?usp=sharing)
+## Aula 6 26/3/25 - Predição de Desvios  
 * [Simulador de Preditor Dinâmica para fazer a correção](https://colab.research.google.com/drive/19ffbZEbwlhMq95FpKd1S1TaN4IZcE-Yx?usp=sharing)
-* [NOVO ! playlist de video separado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nuoeBKHtTPUWAR4tTiI1Fr)
+* [NOVO ! playlist de video separado da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nuoeBKHtTPUWAR4tTiI1Fr)
+* [gravação da aula de 2025](https://drive.google.com/file/d/1C0GhhnyfdHWuANuKWyHlDiyOFV1VpFe5/view?usp=sharing)
+
+========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
   
 ## Aula 7 31/3/25 - Superscalar, VLIW  (assíncrona)
-* [Aula com as dicas para fazer o exercício 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kFiUbMsrqcF0BR_-L5Hp8S)
-* [exercicio para entregar em papel, escrito a mão](https://docs.google.com/document/d/1LkOcmb5JF6cJj34Zog1XTgs2I4KWLS1foS_CLlfQQIU/edit?usp=sharing) - Entregar até 7 de Abril no escaninho da secreatria do DPI.
+
 ## Aula 8 03/4/25 - Assembler PTX da GPU e escalonamento estático (assíncrona) - Não é matéria da prova 1 (só prova 3)
 * [playlist de vídeo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6keaqk5T7drV1ZGEgskxh4X)
 * [lista de exercício de gpu](https://docs.google.com/document/d/1JzC20YiTkD8YZ9OdaNK9XbN9_fSrqfMTHjQRjk7B0gY/edit?usp=sharing)
