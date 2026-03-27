@@ -71,7 +71,7 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 
 
 ## Aula 7 30/3/26  Assembler PTX da GPU e escalonamento estático
-
+* [Aulas de 2026 para PTX e Escalonamento em GPU](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDCyPOSsRgemoEsv5YOqVG)
 * [lista de exercício de gpu](https://docs.google.com/document/d/1JzC20YiTkD8YZ9OdaNK9XbN9_fSrqfMTHjQRjk7B0gY/edit?usp=sharing)
 * [Versão com html](https://colab.research.google.com/drive/1fX8K21hhJmUPXzzq52dTpDeCij8Sn5ys?usp=sharing)
 * [Versao com coresII](https://colab.research.google.com/drive/1_hiw_MjPfFuVj_IDFSJ_BE9PZufjku9d?usp=sharing)
