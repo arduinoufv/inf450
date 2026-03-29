@@ -76,7 +76,10 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 * [Versão com html](https://colab.research.google.com/drive/1fX8K21hhJmUPXzzq52dTpDeCij8Sn5ys?usp=sharing)
 * [Versao com coresII](https://colab.research.google.com/drive/1_hiw_MjPfFuVj_IDFSJ_BE9PZufjku9d?usp=sharing)
 * [playlist de vídeo da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6keaqk5T7drV1ZGEgskxh4X)
-
+     * Pipeline da GPU, Threads, Warps e Blocos 
+* [Introdução a GPU clique aqui Video de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k2S59XvoMOr2UHICwbfAHb)
+     * Instruções, PTX, Warps, Memórias e Volkov
+       
 ## Aula 9 06/4/26  Assembler PTX da GPU e escalonamento estático
 
 ## Aula 10 9/4/26 - Revisão
@@ -108,14 +111,18 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 * [Colab de Introdução a Memória Virtual](https://colab.research.google.com/drive/1yFMBKIOR94sudsBO0Z3nhZ4xExBITQnx?usp=sharing)
 * [Colab com os exercícios para Prova II](https://colab.research.google.com/drive/1ohzBmtaEW1Rgx0zmhMlHg8bBYC2SzkD2?usp=sharing)
 ## Aula 18 11/5/26 - Memória da GPU
+ * registradores, cache, shared, global, constante, textura
 ## Aula 19 14/5/26 - Revisão da Implementação da Cache 4 way
 ## Aula 20 18/5/26 - Avaliação das Memórias de GPU
+  * acesso Coalesced e Randomico
+  * acesso por coluna e linha
+  * splilling de Registradores
 ## Aula 21 21/5/26 - Revisão  (santa rita)
 * [prova 2024](https://docs.google.com/document/d/16YGtPHkZGC75hZjaCi7h12wSKg5GiUZPQTn6tj8bNSc/edit?usp=sharing)
 * [prova 2023](https://docs.google.com/document/d/1O81P4sPiwqNEIgymIdEAubdqdjn6q6pPMf10V146leQ/edit?usp=sharing)
 ## Aula 22 25/5/26 - Prova II - 
 * [exercicios de revisão para PROVA II](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kOq1Vp66q4rXiG8LOGr5An)
-## Aula 23 28/5/26 - [Introdução a GPU clique aqui Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k2S59XvoMOr2UHICwbfAHb)
+## Aula 23 28/5/26 - Arquiteturas Paralelas
 ## Aula 24 1/6/26  - Maquina Vetorial & Dataflow 
 * [Colab de Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing)
 * [Colad de Arquiteturas Vetoriais](https://colab.research.google.com/drive/1DVloAhfVcDYnMeB97gHmARMFBJuf7rE6?usp=sharing)
@@ -133,7 +140,7 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 * [Colab Demo](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
 ## Aula 28 18/6/26 - Arquitetura GPU multiprocessadores
 * [Playlist video Memorias](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ku0YPpJJMWQjKMYlN814eh)
-## Aula 29 22/6/26 - Arquitetura GPU PTX e Registradores
+## Aula 29 22/6/26 - Arquitetura GPU otimizações
 ## Aula 30 25/6/26 - Revisão 
 * [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6khQhwvx9rvlkCmGxOA5jho)
 * [prova 2024](https://docs.google.com/document/d/1FXchJlMIZwI7P9RFEMHK-MPH89XY3bGjx8-HnKMLJss/edit?usp=drive_link)
