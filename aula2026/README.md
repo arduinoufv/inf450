@@ -92,49 +92,53 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 ========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
   
 
-## Aula 12 24/4/25 - Introdução as Caches e seus tipos [play list da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mAsSf8X1e2bDfz2cxHAqwE)
+## Aula 12 16/4/26 - Introdução as Caches e seus tipos 
 * [Colab com material teórico para Caches](https://colab.research.google.com/drive/1n2YcCXjPS0bZqhncxPiVg8nnOUv9A_4r?usp=sharing)
-## Aula 13 28/4/25 - Implementação de uma Cache em Verilog (trabalho)
-## Aula 14 5/5/25  - Continuação da Implementação Caches e Politicas de Substituição  
-* [Explicações para fazer o trabalho - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
-## Aula 15 8/5/25  - Tempo, Níveis, Compartilhamento
-* [video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mSIksEPqTVTw2aVHfsxr3q)
+* [play list da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mAsSf8X1e2bDfz2cxHAqwE)
+## Aula 13 23/4/26 - Implementação de uma Cache em Verilog (trabalho da Cache 4 way)
+* [Colab Base 4 way](https://colab.research.google.com/drive/1Qpi9Da7_AWQ_qbrf8ssDxuKuGUM_-rd6?usp=sharing)
+* [Explicações de 2025 do projeto 4 way](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
+## Aula 14 27/4/26  - Continuação da Implementação Caches e Politicas de Substituição  
+## Aula 15 30/4/26  - Tempo, Níveis, Compartilhamento
+* [video aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mSIksEPqTVTw2aVHfsxr3q)
 * [mesi - protocolo de simulação de cache](https://www.scss.tcd.ie/jeremy.jones/VivioJS/caches/MESIHelp.htm)
-## Aula 16 12/5/25 - Memória Virtual e Paginação, 2 Niveis 
+## Aula 16 4/5/26 - Memória Virtual e Paginação, 2 Niveis 
 * [Playlist Introdução + Exercicio Paginacao 1 nivel, um exemplo de 2 niveis](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l1XmvLXJ7HeQM44wQYr-wV)
-## Aula 17 15/5/25 - Paginação em 2 níveis, TLB
+## Aula 17 7/5/26 - Paginação em 2 níveis, TLB
 * [Colab de Introdução a Memória Virtual](https://colab.research.google.com/drive/1yFMBKIOR94sudsBO0Z3nhZ4xExBITQnx?usp=sharing)
 * [Colab com os exercícios para Prova II](https://colab.research.google.com/drive/1ohzBmtaEW1Rgx0zmhMlHg8bBYC2SzkD2?usp=sharing)
-## Aula 18 19/5/25 - Revisão  (santa rita)
+## Aula 18 11/5/26 - Memória da GPU
+## Aula 19 14/5/26 - Revisão da Implementação da Cache 4 way
+## Aula 20 18/5/26 - Avaliação das Memórias de GPU
+## Aula 21 21/5/26 - Revisão  (santa rita)
 * [prova 2024](https://docs.google.com/document/d/16YGtPHkZGC75hZjaCi7h12wSKg5GiUZPQTn6tj8bNSc/edit?usp=sharing)
 * [prova 2023](https://docs.google.com/document/d/1O81P4sPiwqNEIgymIdEAubdqdjn6q6pPMf10V146leQ/edit?usp=sharing)
-## Aula 19 26/5/25 - Prova II - Auditorio do PVB
+## Aula 22 25/5/26 - Prova II - 
 * [exercicios de revisão para PROVA II](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kOq1Vp66q4rXiG8LOGr5An)
-## Aula 20 29/5/25 - [Introdução a GPU clique aqui Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k2S59XvoMOr2UHICwbfAHb)
-## Aula 21 2/6/25  - Maquina Vetorial & Dataflow 
+## Aula 23 28/5/26 - [Introdução a GPU clique aqui Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k2S59XvoMOr2UHICwbfAHb)
+## Aula 24 1/6/26  - Maquina Vetorial & Dataflow 
 * [Colab de Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing)
 * [Colad de Arquiteturas Vetoriais](https://colab.research.google.com/drive/1DVloAhfVcDYnMeB97gHmARMFBJuf7rE6?usp=sharing)
 * [video aula dataflow](https://www.youtube.com/playlist?list=PLcvOyD_LMr6liSMQrkBR16PjQndx2_pTy)
-## Aula 22 5/6/25  - Multiprocessadores, Extensões Vetoriais e  Arquiteturas Sistólicas
+## Aula 25 8/6/26 - Multiprocessadores, Extensões Vetoriais e  Arquiteturas Sistólicas
 * [Colab com vários sistólicos: filtro, Matriz 2D e Knn](https://colab.research.google.com/drive/1kJiYnlqIaQryCEpl48o0Eno78bMp_RwC?usp=sharing)
 * [Array Processor, Vetorial e Sistólicos](https://colab.research.google.com/drive/1YTPxp2t5KBBlTtdq6ThdgUnS4-u2a2xc?usp=sharing)
 * [Multiprocessadores](https://colab.research.google.com/drive/1aXdpEg4TCGCgQJ4mliXYxrYSLS1fqWdl?usp=sharing)
 * [Video Processadores Vetoriais, Multiprocessadores e Sistólicos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n6WeVWUPpvFrzDfQKomwDk)
-## Aula 23 9/6/25  - Arquiteturas SIMD Array Processors
+## Aula 26 11/6/26 - Arquiteturas SIMD Array Processors
 * [Colab de Array Processors](https://colab.research.google.com/drive/1_2OoAaCe_do0135Q3nDr7wCeBu6go_eQ?usp=sharing)
 * [Video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kH-gyyG0Zx9d7mnmEb-ho5)
-## Aula 24 12/6/25 - Modelo Programação GPU
+## Aula 27 15/6/26 - Modelo Programação GPU
 * [Playlist Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k-jRSG7Mqzdy7lMTiwPeev)
 * [Colab Demo](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
-## Aula 25 16/6/25 - Arquitetura GPU memórias  (corpus)
+## Aula 28 18/6/26 - Arquitetura GPU multiprocessadores
 * [Playlist video Memorias](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ku0YPpJJMWQjKMYlN814eh)
-## Aula 26 23/6/25 - Arquitetura GPU multiprocessadores
-## Aula 27 26/6/25 - Arquitetura GPU PTX e Registradores 
-## Aula 28 30/6/25 - Revisão 
+## Aula 29 22/6/26 - Arquitetura GPU PTX e Registradores
+## Aula 30 25/6/26 - Revisão 
 * [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6khQhwvx9rvlkCmGxOA5jho)
 * [prova 2024](https://docs.google.com/document/d/1FXchJlMIZwI7P9RFEMHK-MPH89XY3bGjx8-HnKMLJss/edit?usp=drive_link)
 * [prova 2023](https://docs.google.com/document/d/1rCpnwK2b_OJ0UvyDxRptrsamWxd2veiWTQL2g1zYycI/edit?usp=drive_link)
-## Aula 29 3/7/25   Prova III no auditório do PVB
+## Aula 31 29/6/26    Prova III 
 
 
 
