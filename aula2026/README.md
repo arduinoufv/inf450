@@ -81,7 +81,8 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
      * Instruções, PTX, Warps, Memórias e Volkov
        
 ## Aula 9 06/4/26  Assembler PTX da GPU e escalonamento estático
-
+* [PTX assembler](https://colab.research.google.com/drive/1gRT1mwLk2Woip9c-Lgklc4gzOsh9IKwi?usp=sharing)
+  
 ## Aula 10 9/4/26 - Revisão
 * [Solução de questões de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mqPhkT_NVEzZje3EQe87Qz)
 * [Gravações dos vídeos da revisão com Exemplos de questoes de Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWR7OxKKXbG8oE-xUCxpw4)
