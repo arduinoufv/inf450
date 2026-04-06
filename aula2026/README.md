@@ -82,6 +82,7 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
        
 ## Aula 9 06/4/26  Assembler PTX da GPU e escalonamento estático
 * [PTX assembler](https://colab.research.google.com/drive/1gRT1mwLk2Woip9c-Lgklc4gzOsh9IKwi?usp=sharing)
+* [Capithreads](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mpwkGtbHssIH3JVBZQixJ7)
   
 ## Aula 10 9/4/26 - Revisão
 * [Solução de questões de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mqPhkT_NVEzZje3EQe87Qz)
