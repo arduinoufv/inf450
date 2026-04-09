@@ -1,11 +1,11 @@
 # Plano e Objetivos [clique aqui](https://github.com/arduinoufv/inf450/blob/master/aula2026/plano.md)
 # Avaliação
  
-* 2 provas de 32 pontos e uma prova de 28 pontos (92 pts) - Prova I 13/4/26, Prova II 25/5/26, Prova III 29/6/26
+* 2 provas de 32 pontos e uma prova de 28 pontos (92 pts) - [Prova I 13/4/26](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mqPhkT_NVEzZje3EQe87Qz), Prova II 25/5/26, Prova III 29/6/26
 * Trabalho (8 pontos - serão cobrados na prova - Trabalho em Grupo mas a arguição é individual)
     * [**Onde enviar o trabalho - clique aqui**](https://forms.gle/9BHZA7USaSvei2Te8) 
     * Simulador Cache 4 Way 4 pontos - 6/6/25 - [Colab base](https://colab.research.google.com/drive/11StANB9MMLfcuuqtwbZMe9MbUNz48NOs?usp=sharing) e [Explicações para fazer o trabalho - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
-    * Fazer um supersimulador Tomasulo  validando e fazendo MERGE das boas características dos simuladores da Turma de 2025- 4 pontos entregar código até 13/4/26 [video do trabalho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mpTr9edcCAlEHjhrM0GkyH) 
+    * Fazer um supersimulador Tomasulo  validando e fazendo MERGE das boas características dos simuladores da Turma de 2025- 4 pontos entregar código até 21/4/26 [video do trabalho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mpTr9edcCAlEHjhrM0GkyH) 
 
 # Referências
 * [apostilas]()
@@ -92,7 +92,7 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 * [Prova 2023](https://docs.google.com/document/d/1HKhF6WCDqGJV9DjXn4wobdmdpJ93QTWRy9bvmrsTdMk/edit?usp=sharing)
 * [Resumo da Prova - anotações](https://docs.google.com/document/d/1NmfZrIL31t1U1210UR1GrP7WysAOxULVDxHoVG5CrmM/edit?usp=sharing)
 
-## Aula 11 13/4/26 - Prova I - PVB 209
+## Aula 11 13/4/26 - Prova I - PVB 209 - [revisao final](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mqPhkT_NVEzZje3EQe87Qz)
 
 
 ========= Abaixo em construção, pode sofrer pequenos ajustes em relação a 2025
