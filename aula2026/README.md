@@ -3,6 +3,7 @@
  
 * 2 provas de 32 pontos e uma prova de 28 pontos (92 pts) - Prova I 13/4/26, Prova II 25/5/26, Prova III 29/6/26
 * Trabalho (8 pontos - serão cobrados na prova - Trabalho em Grupo mas a arguição é individual)
+    * [**Onde enviar o trabalho - clique aqui**](https://forms.gle/9BHZA7USaSvei2Te8) 
     * Simulador Cache 4 Way 4 pontos - 6/6/25 - [Colab base](https://colab.research.google.com/drive/11StANB9MMLfcuuqtwbZMe9MbUNz48NOs?usp=sharing) e [Explicações para fazer o trabalho - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
     * Fazer um supersimulador Tomasulo  validando e fazendo MERGE das boas características dos simuladores da Turma de 2025- 4 pontos entregar código até 13/4/26 [video do trabalho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mpTr9edcCAlEHjhrM0GkyH) 
 
