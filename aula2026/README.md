@@ -103,6 +103,7 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 * [play list da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mAsSf8X1e2bDfz2cxHAqwE)
 ## Aula 13 23/4/26 - Implementação de uma Cache em Verilog (trabalho da Cache 4 way)
 * [Colab Base 4 way](https://colab.research.google.com/drive/1Qpi9Da7_AWQ_qbrf8ssDxuKuGUM_-rd6?usp=sharing)
+* [Explicacoes de 2026 do projeto 4 way](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k8EnDb4KXjsF1utugZ5cxy)
 * [Explicações de 2025 do projeto 4 way](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCZoxo2plWQGRiA_GI9rye)
 ## Aula 14 27/4/26  - Continuação da Implementação Caches e Politicas de Substituição  
 ## Aula 15 30/4/26  - Tempo, Níveis, Compartilhamento
