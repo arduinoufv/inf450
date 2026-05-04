@@ -111,11 +111,11 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 * [video aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mSIksEPqTVTw2aVHfsxr3q)
 * [mesi - protocolo de simulação de cache](https://www.scss.tcd.ie/jeremy.jones/VivioJS/caches/MESIHelp.htm)
 * [Colab para Mesi](https://colab.research.google.com/drive/1bqQCR3mkLSnMKpEzzbnv83ESZ5kkCtVk?usp=sharing)
-## Aula 16 4/5/26 - Memória Virtual e Paginação, 2 Niveis 
-* [Playlist Introdução + Exercicio Paginacao 1 nivel, um exemplo de 2 niveis](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l1XmvLXJ7HeQM44wQYr-wV)
-## Aula 17 7/5/26 - Paginação em 2 níveis, TLB
+## Aula 16 4/5/26 - Memória Virtual e Paginação, 2 Niveis
 * [Colab de Introdução a Memória Virtual](https://colab.research.google.com/drive/1yFMBKIOR94sudsBO0Z3nhZ4xExBITQnx?usp=sharing)
 * [Colab com os exercícios para Prova II](https://colab.research.google.com/drive/1ohzBmtaEW1Rgx0zmhMlHg8bBYC2SzkD2?usp=sharing)
+* [Aula de 2025 - Playlist Introdução + Exercicio Paginacao 1 nivel, um exemplo de 2 niveis](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l1XmvLXJ7HeQM44wQYr-wV)
+## Aula 17 7/5/26 - Paginação em 2 níveis, TLB
 ## Aula 18 11/5/26 - Memória da GPU
  * registradores, cache, shared, global, constante, textura
 ## Aula 19 14/5/26 - Revisão da Implementação da Cache 4 way
