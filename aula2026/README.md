@@ -118,6 +118,8 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 ## Aula 17 7/5/26 - Paginação em 2 níveis, TLB
 ## Aula 18 11/5/26 - Memória da GPU
  * registradores, cache, shared, global, constante, textura
+ * [Colab com material](https://colab.research.google.com/drive/1Qd7wZvnun7kC0vTsb5T2ekg2iRo9O6vC?usp=sharing)
+ * [Colab com questões para treino](https://colab.research.google.com/drive/1wv-XDXQnVE4uCJMV5aLBQ7ap0SbbcCsf?usp=sharing)
 ## Aula 19 14/5/26 - Revisão da Implementação da Cache 4 way
 ## Aula 20 18/5/26 - Avaliação das Memórias de GPU
   * acesso Coalesced e Randomico
