@@ -121,15 +121,16 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
  * [Colab com material](https://colab.research.google.com/drive/1Qd7wZvnun7kC0vTsb5T2ekg2iRo9O6vC?usp=sharing)
  * [Colab com questões para treino](https://colab.research.google.com/drive/1wv-XDXQnVE4uCJMV5aLBQ7ap0SbbcCsf?usp=sharing)
 ## Aula 19 14/5/26 - Revisão da Implementação da Cache 4 way
-## Aula 20 18/5/26 - Avaliação das Memórias de GPU
+## Aula 20 18/5/26 - Avaliação das Memórias de GPU [videos](https://studio.youtube.com/playlist/PLcvOyD_LMr6k9qcOPU5BygYCi3KERA5jK/edit)
   * acesso Coalesced e Randomico
   * acesso por coluna e linha
   * splilling de Registradores
 ## Aula 21 21/5/26 - Revisão  (santa rita)
 * [prova 2024](https://docs.google.com/document/d/16YGtPHkZGC75hZjaCi7h12wSKg5GiUZPQTn6tj8bNSc/edit?usp=sharing)
 * [prova 2023](https://docs.google.com/document/d/1O81P4sPiwqNEIgymIdEAubdqdjn6q6pPMf10V146leQ/edit?usp=sharing)
+* [Aulas de revisão de 2026](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kU2N_i3GCj_KuBO7gIXd20)
 ## Aula 22 25/5/26 - Prova II - 
-* [exercicios de revisão para PROVA II](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kOq1Vp66q4rXiG8LOGr5An)
+* [exercicios de revisão para PROVA II 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kOq1Vp66q4rXiG8LOGr5An)
 ## Aula 23 28/5/26 - Arquiteturas Paralelas
 ## Aula 24 1/6/26  - Maquina Vetorial & Dataflow 
 * [Colab de Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing)
