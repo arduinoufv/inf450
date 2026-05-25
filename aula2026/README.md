@@ -121,7 +121,7 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
  * [Colab com material](https://colab.research.google.com/drive/1Qd7wZvnun7kC0vTsb5T2ekg2iRo9O6vC?usp=sharing)
  * [Colab com questões para treino](https://colab.research.google.com/drive/1wv-XDXQnVE4uCJMV5aLBQ7ap0SbbcCsf?usp=sharing)
 ## Aula 19 14/5/26 - Revisão da Implementação da Cache 4 way
-## Aula 20 18/5/26 - Avaliação das Memórias de GPU [videos](https://studio.youtube.com/playlist/PLcvOyD_LMr6k9qcOPU5BygYCi3KERA5jK/edit)
+## Aula 20 18/5/26 - Avaliação das Memórias de GPU [videos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9qcOPU5BygYCi3KERA5jK)
   * acesso Coalesced e Randomico
   * acesso por coluna e linha
   * splilling de Registradores
