@@ -132,19 +132,19 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 * [Aulas de revisão de 2026](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kU2N_i3GCj_KuBO7gIXd20)
 ## Aula 22 25/5/26 - Prova II - 
 * [exercicios de revisão para PROVA II 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kOq1Vp66q4rXiG8LOGr5An)
-## Aula 23 28/5/26 - Arquiteturas Paralelas
-## Aula 24 1/6/26  - Maquina Vetorial & Dataflow 
-* [Colab de Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing)
-* [Colad de Arquiteturas Vetoriais](https://colab.research.google.com/drive/1DVloAhfVcDYnMeB97gHmARMFBJuf7rE6?usp=sharing)
-* [video aula dataflow](https://www.youtube.com/playlist?list=PLcvOyD_LMr6liSMQrkBR16PjQndx2_pTy)
-## Aula 25 8/6/26 - Multiprocessadores, Extensões Vetoriais e  Arquiteturas Sistólicas
-* [Colab com vários sistólicos: filtro, Matriz 2D e Knn](https://colab.research.google.com/drive/1kJiYnlqIaQryCEpl48o0Eno78bMp_RwC?usp=sharing)
+## Aula 23 28/5/26 - Arquiteturas Paralelas e Vetoriais 
+* [Colab de Arquiteturas Vetoriais](https://colab.research.google.com/drive/1DVloAhfVcDYnMeB97gHmARMFBJuf7rE6?usp=sharing)
+## Aula 24 1/6/26  - Maquina Vetorial & Array Processors
 * [Array Processor, Vetorial e Sistólicos](https://colab.research.google.com/drive/1YTPxp2t5KBBlTtdq6ThdgUnS4-u2a2xc?usp=sharing)
+* [Colab de Array Processors](https://colab.research.google.com/drive/1_2OoAaCe_do0135Q3nDr7wCeBu6go_eQ?usp=sharing)
+* [Video aula 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kH-gyyG0Zx9d7mnmEb-ho5)
+## Aula 25 8/6/26 - Multiprocessadores,  Arquiteturas Sistólicas
+* [Colab com vários sistólicos: filtro, Matriz 2D e Knn](https://colab.research.google.com/drive/1kJiYnlqIaQryCEpl48o0Eno78bMp_RwC?usp=sharing)
 * [Multiprocessadores](https://colab.research.google.com/drive/1aXdpEg4TCGCgQJ4mliXYxrYSLS1fqWdl?usp=sharing)
 * [Video Processadores Vetoriais, Multiprocessadores e Sistólicos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n6WeVWUPpvFrzDfQKomwDk)
-## Aula 26 11/6/26 - Arquiteturas SIMD Array Processors
-* [Colab de Array Processors](https://colab.research.google.com/drive/1_2OoAaCe_do0135Q3nDr7wCeBu6go_eQ?usp=sharing)
-* [Video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kH-gyyG0Zx9d7mnmEb-ho5)
+## Aula 26 11/6/26 - Arquiteturas Dataflow
+* [Colab de Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing)
+* [video aula dataflow 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6liSMQrkBR16PjQndx2_pTy)
 ## Aula 27 15/6/26 - Modelo Programação GPU
 * [Playlist Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k-jRSG7Mqzdy7lMTiwPeev)
 * [Colab Demo](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
