@@ -149,6 +149,7 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 * [histograma e stencil 3D](https://colab.research.google.com/drive/1EHlrOlNMysdltbcrOxrmseqwXIGpyC0H?usp=sharing)
 * [divergenica e redução](https://colab.research.google.com/drive/1puAQJYDarvTjs2bRoFKMGc14_QE8-SQM?usp=sharing)
 * [ordenacao, ptx, memoria, cte memory](https://colab.research.google.com/drive/1kbyZSY-bsMS5T7wkPtCgF_GYrZu9BokJ?usp=sharing)
+* [memorias](https://colab.research.google.com/drive/1Qd7wZvnun7kC0vTsb5T2ekg2iRo9O6vC?usp=sharing)
 * [float 4 e outras quantizações](https://colab.research.google.com/drive/1_Sz2RDr3mAZvfZ4FZZdYUM07d0A5aFhm?usp=sharing)
 * [intensidade aritmética](https://colab.research.google.com/drive/132VHfYBs0Ti8Sy7Ryh5T9mDZ3UcdXy3-?usp=sharing)
 * [Playlist Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k-jRSG7Mqzdy7lMTiwPeev)
