@@ -155,7 +155,7 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 * [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6khQhwvx9rvlkCmGxOA5jho)
 * [prova 2024](https://docs.google.com/document/d/1FXchJlMIZwI7P9RFEMHK-MPH89XY3bGjx8-HnKMLJss/edit?usp=drive_link)
 * [prova 2023](https://docs.google.com/document/d/1rCpnwK2b_OJ0UvyDxRptrsamWxd2veiWTQL2g1zYycI/edit?usp=drive_link)
-## Aula 31 29/6/26    Prova III 
+## Aula 31 29/6/26    Prova III - sala 335 do PVA para INF 450.
 
 
 
