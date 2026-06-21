@@ -146,14 +146,7 @@ Sim | Rastreio Tabela | editor | exemplos | cpi | previous | animacao | estacao 
 * [Colab de Dataflow](https://colab.research.google.com/drive/1_c1iMekCu21Dddo0ruIXlYIouuy54Bkh?usp=sharing)
 * [video aula dataflow 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6liSMQrkBR16PjQndx2_pTy)
 ## Aula 27 15/6/26 - Modelo Programação GPU
-* [histograma e stencil 3D](https://colab.research.google.com/drive/1EHlrOlNMysdltbcrOxrmseqwXIGpyC0H?usp=sharing)
-* [divergenica e redução](https://colab.research.google.com/drive/1puAQJYDarvTjs2bRoFKMGc14_QE8-SQM?usp=sharing)
-* [ordenacao, ptx, memoria, cte memory](https://colab.research.google.com/drive/1kbyZSY-bsMS5T7wkPtCgF_GYrZu9BokJ?usp=sharing)
-* [memorias](https://colab.research.google.com/drive/1Qd7wZvnun7kC0vTsb5T2ekg2iRo9O6vC?usp=sharing)
-* [float 4 e outras quantizações](https://colab.research.google.com/drive/1_Sz2RDr3mAZvfZ4FZZdYUM07d0A5aFhm?usp=sharing)
-* [intensidade aritmética](https://colab.research.google.com/drive/132VHfYBs0Ti8Sy7Ryh5T9mDZ3UcdXy3-?usp=sharing)
-* [Playlist Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k-jRSG7Mqzdy7lMTiwPeev)
-* [Colab Demo](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
+* [microbenchmarks](https://colab.research.google.com/drive/1Qy6Xl-IjHqkB3kcjn09dQ-tqo2Lxq81X?usp=sharing)
 ## Aula 28 18/6/26 - Arquitetura GPU multiprocessadores
 * [Playlist video Memorias](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ku0YPpJJMWQjKMYlN814eh)
 ## Aula 29 22/6/26 - Arquitetura GPU otimizações
